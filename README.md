@@ -1,2 +1,2 @@
 # site-theme
-public site Jekyll theme
+public plynty website Jekyll theme
