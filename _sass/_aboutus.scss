@@ -27,9 +27,6 @@
   #get-to-know-us {
     font-size: 4rem;
   }
-  #differently {
-    margin-left: -9.7rem;
-  }
 
   h2 {
     color: $dark-gray;
@@ -52,7 +49,7 @@
   /* Header Image CSS Section */
   .headerImage{
       position: relative;
-      width: 65%;
+      width: 100%;
       height: 55vh; 
       background: #F8F8F6;
       background: url('/uploads/aboutHero.jpg')no-repeat;
