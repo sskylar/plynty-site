@@ -1,5 +1,5 @@
 ---
-title: plynty - your financial advisor in your pocket
+title: plynty - retirement planning within your control
 author: paul
 layout: default
 ---
