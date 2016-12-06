@@ -1,0 +1,23 @@
+{
+  "name": "plynty.siteleaf",
+  "homepage": "https://www.plynty.com",
+  "authors": [
+    "Paul Fischer"
+  ],
+  "description": "plynty brochure and blog site",
+  "main": "",
+  "keywords": [
+    "plynty",
+    "jekyll",
+    "siteleaf"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

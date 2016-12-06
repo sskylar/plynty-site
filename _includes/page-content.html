@@ -1,0 +1,120 @@
+<main class="{{include.page}}">
+
+    <!-- get each section for the page and sort by position -->
+    {% assign sections = site.sections | where : 'page',
+    {{include.page}} | sort : 'position' %}
+
+    <!-- process each section -->
+    {% for section in sections %}
+
+        <section>
+
+            {% if section.format == 'big-image' %}
+                <div class="headerImage">
+                    <div class="col-xs-12 col-md-12 start-xs start-md">
+                    <span class="headerImageContent">{{section.content}}</span>
+                  </div>
+                </div>
+            {% endif %}
+
+            {% if section.format == 'image-left' %}
+                <div class="row section-wrapper top-xs">
+                    <div class="col-xs-12 col-md-6 center-xs middle-md ">
+                        <img src="{{section.image}}" style="max-width: 100%; max-height: 500px;">
+                    </div>
+                    <div class="col-xs-12 col-md-6 center-xs start-md">
+                        {{section.content}}
+                    </div>
+                </div>
+            {% endif %}
+
+            {% if section.format == 'image-right' %}
+                <div class="row section-wrapper top-xs center-xs start-md">
+                    <div class="col-xs-12 col-md-6">
+                        <p>{{section.content}}</p>
+                    </div>
+                    <div class="col-xs-12 col-md-6 center-xs end-md">
+                        <img src="{{section.image}}" style="max-width: 100%; max-height: 500px;">
+                    </div>
+                </div>
+            {% endif %}
+
+            {% if section.format == 'portrait-left' %}
+                <div class="row section-wrapper top-xs">
+                    <div class="col-xs-12 col-sm-12 col-md-3 center-xs start-md middle-xs">
+                        <img src="{{section.image}}">
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-9 center-xs start-md">
+                        {{section.content}}
+                    </div>
+                </div>
+            {% endif %}
+
+            {% if section.format == 'portrait-right' %}
+                <div class="row section-wrapper top-xs middle-xs">
+                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 center-xs start-md">
+                        <p>{{section.content}}</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 center-xs end-md middle-xs">
+                        <img src="{{section.image}}">
+                    </div>
+                </div>
+            {% endif %}
+
+            {% if section.format == 'full' %}
+                <div class="row section-wrapper middle-xs center-xs">
+                    <div class="col-xs-12">
+                        {{section.content}}
+                    </div>
+                </div>
+            {% endif %}
+
+            {% if section.format == 'donut' %}
+                <div class="row section-wrapper start-md center-xs">
+                    {{section.content}}
+                </div>
+            {% endif %}
+
+            {% if section.format == 'about-hero' %}
+            <div class="hidden-xs hidden-sm hidden-md">
+                <div class="headerImage">
+                   <div class="row section-wrapper end-xs">
+                            <div class="col-xs-12 col-md-6 col-lg-6 center-xs middle-xs center-md">
+                                {{section.content}}
+                            </div>
+                    </div>
+                </div>
+            </div>
+            <div class="hidden-lg">
+                <div class="row section-wrapper center-xs">
+                    <div class="col-xs-12 col-md-6 col-lg-6 center-xs">
+                      {{section.content}}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+
+            {% if section.format == 'about-top' %}
+                <div class="row section-wrapper center-xs">
+                    <div class="col-xs-12 col-md-6 col-lg-6 center-xs middle-xs center-md">
+                      {{section.content}}
+                    </div>
+                </div>
+            {% endif %}
+
+            {% if section.format == 'photos' %}
+                <div class="row section-wrapper middle-xs center-xs photo-container">
+                    {{section.content}}
+                </div>
+            {% endif %}
+
+            {% if section.format == 'three-block' %}
+                <div class="section-wrapper">
+                    {{section.content}}
+                </div>
+            {% endif %}
+
+        </section>
+
+    {% endfor %}
+</main>

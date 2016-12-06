@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="post post-wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </div>
+
+  <div class="post-content" itemprop="articleBody">
+    <img src="{{ page.image }}" width="100%">
+
+    <div class="social-links">
+      <a href="https://twitter.com/plynty" target="_blank"><i class="fa fa-twitter-square social-twitter fa-2x"></i></a>
+      <a href="https://www.facebook.com/plynty" target="_blank"><i class="fa fa-facebook-square fa-2x social-facebook"></i></a>
+      <a href="https://www.linkedin.com/company/plynty" target="_blank"><i class="fa fa-linkedin-square fa-2x social-linkedin"></i></a>
+    </div>
+
+    {{ content }}
+  </div>
+  <hr/>
+
+  <a href="{{"/blog.html" | prepend: site.baseurl | prepend: site.url}}">back</a>
+  <br><br>
+
+</article>

@@ -1,0 +1,98 @@
+<main class="blog">
+<div class="section-wrapper">
+  <!--
+  <div class="row">
+    <section class="col-xs-12">
+      <div class="cat-list">
+        {% for cat in site.categories limit:6 %}
+          <a href="#">{{cat | first}}</a>
+        {% endfor %}
+      </div>
+    </section>
+  </div>
+  -->
+
+  {% assign posts = site.posts %}
+
+  <div class="row start-xs" style>
+
+    <section class="col-xs-12 col-md-12 listing">
+      {% for post in posts limit:40 %}
+        {% if post.featured == true %}
+          <!--<article class="featured">
+            <div class="row top-xs">
+              <div class="col-xs-12">
+                <img src="{{post.image}}" width="100%">
+              </div>
+            </div>
+          </article>-->
+        {% else %}
+          <article class="standard">
+            <div class="row top-xs">
+              <div class="col-xs-12 col-md-3">
+                <img src="{{post.asset}}" width="100%">
+              </div>
+              <div class="col-xs-12 col-md-9" style="padding-left:20px">
+                <!--<div class="cat">
+                  {% for cat in post.categories %}
+                    <span>{{cat}}</span>
+                  {% endfor %}
+                </div>-->
+                <h1><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h1>
+                {{post.excerpt}}
+                <div class="more">
+                  <a href="{{post.url | prepend: site.baseurl}}">read more ></a>
+                </div>
+              </div>
+            </div>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </section>
+
+    <!--
+    <section class="col-xs-4 index">
+      <h1>recently added</h1>
+      <ul>
+      {% for post in posts limit:6 %}
+        <li>
+          <a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>
+          <div class="author">{{post.author}} | {{post.date | date: "%B %d, %Y"}}</div>
+        </li>
+      {% endfor %}
+      </ul>
+
+      <div class="row">
+        <div class="col-xs-6">
+          <h2>archives</h2>
+          {% include archive-index.html %}
+        </div>
+        <div class="col-xs-6">
+          <h2>categories</h2>
+          {% include category-index.html %}
+        </div>
+      </div>
+    </section>
+    -->
+
+  </div>
+
+  <!--
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{paginator.previous_page}}" class="previous">Previous</a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+
+    <span class="page_number">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
+
+    {% if paginator.next_page %}
+      <a href="{{paginator.next_page}}" class="next">Next</a>
+    {% else %}
+      <span class="next">Next</span>
+    {% endif %}
+  </div>
+  -->
+</div>
+</main>
