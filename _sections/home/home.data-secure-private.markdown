@@ -10,7 +10,7 @@ layout: default
 # your data — secure and private
 With proven technology and expertise, *plynty* defends every detail of your data.
 
-{% include icon-bullet.html heading="&nbsp;&nbsp;signin safeguards" icon="fa fa-lock"
+{% include icon-bullet.html heading="&nbsp;&nbsp;sign in safeguards" icon="fa fa-lock"
 text="Access to your account is protected by multi-factor authentication." %}
 
 {% include icon-bullet.html heading="bank level data protection" icon="fa fa-bank"
