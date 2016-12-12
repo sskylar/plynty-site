@@ -1,5 +1,9 @@
+##ignore published site
 _site/
+##caches should only be local
 .sass-cache/
+.asset-cache/
 .jekyll-metadata
 
+*.DS_Store
 .idea/

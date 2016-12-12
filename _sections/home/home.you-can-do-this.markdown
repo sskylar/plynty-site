@@ -14,5 +14,4 @@ Whether it’s how much you have or how much you need, *plynty* guides you to a 
 with your lifestyle. It links all of your accounts so that everything is laid out in front of you, all in 
 one place. And, yes, it’s affordable.
 
-
-[This is totally doable. Download plynty and get started. >](#you-already-understand-this--really)
+<a href="/get-app-modal.html" rel="modal:open">This is totally doable. Download plynty and get started. ></a>
