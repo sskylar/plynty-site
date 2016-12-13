@@ -7,8 +7,13 @@
     #hey-you-can-do-this {
         padding-top: 2.3rem;
     }
-    .tagline-mobile {
-        margin-bottom: 2rem;
+    svg{
+        width: 50%;
+        margin-top: -70px;
+    }
+    .carousel{
+        padding-top: 53px;
+        margin-bottom: -81px;
     }
     .donut-bullet h1 {
         font-size: 1.8rem;
@@ -57,27 +62,18 @@
         letter-spacing: 2px;
         line-height: 0.5rem;
     }
-
-    /* Mailchimp form custom style */
-    #mc_embed_signup{background:none; color:#000; clear:left; font:1.8rem 'Muli',Helvetica; width:100%;}
-    #mc_embed_signup .button {
-    background-color:#3ebeb0;
-    }
-    #mc_embed_signup .button:hover {
-    background-color:#3ebeb0;
-    }
-    /* Mailchimp form custom style end*/
     
     @media only screen and (min-width: 1000px){
       .headerImageContent{
           left: 30%;
           top: 45%;
       }
-      .tagline-mobile {
-          display:none;
-      }
     }
     @media only screen and (max-width:1000px) {
+        svg{
+            width: 70%;
+            margin-top: -70px;
+         }   
         .headerImage{
           background: url('/uploads/ipad-hero.jpg')no-repeat center center;
           background-size: cover;
@@ -107,6 +103,10 @@
         }
     }
     @media only screen and (max-width: 600px) {
+        svg{
+            width: 90%;
+            margin-top: -70px;
+         }   
         .headerImageContent {
             left: 50%;
             top: 50%;

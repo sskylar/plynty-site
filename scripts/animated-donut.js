@@ -1,6 +1,5 @@
 //plynty-donut Chart
-(function() {
-  'use strict';
+
 
   var DONUT_INITIALIZED = false;
   var DURATION = 1000;
@@ -44,7 +43,6 @@
       donutIndex = donutIndex + 1;
     }
   }
-
 
   // ***********************************************************
   // *** Functions To Set Pie and calc midAngle for D3 Chart ***
@@ -311,13 +309,13 @@
     textToAnimate.transition()
       .duration(DURATION)
       .style('opacity', 1)
-      .style('color', incomeColor);
+      .style('color', incomeColor)
 
     textToAnimate.transition()
       .delay(INTERVAL_DURATION)
       .duration(DURATION)
       .style('opacity', 0.87)
-      .style('color', '#000');
+      .style('color', '#217269');
   }
 
   function animateTagIcon() {
@@ -326,7 +324,6 @@
     iconToAnimate.transition()
       .duration(DURATION)
       .style('opacity', 1)
-      .style('color', incomeColor);
 
     iconToAnimate.transition()
       .delay(INTERVAL_DURATION)
@@ -456,5 +453,3 @@
       donutType: 'balanced'
     }];
   }
-
-})();

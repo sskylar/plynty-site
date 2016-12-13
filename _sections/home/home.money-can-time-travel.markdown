@@ -5,28 +5,11 @@ format: donut
 page: home
 layout: default
 ---
-
-{% capture taglines %}
-
 # your money can time travel
+
 Imagine a financial time machine: step into the future, see what you’ll need, and come back with the right retirement plan. *plynty* can help take you there.
 
 With *plynty’s* focus on creating lifelong cashflow, you’ll find answers to some of retirement’s biggest questions: 
-
-
-{% include donut-bullet.html heading="how much will I need?" icon="fa fa-caret-right"%}
-
-{% include donut-bullet.html heading="when will I retire?" icon="fa fa-caret-right"%}
-
-{% include donut-bullet.html heading="how can I save more?" icon="fa fa-caret-right"%}
-
-{% include donut-bullet.html heading="what if my circumstances change?" icon="fa fa-caret-right"%}
-
-{% include donut-bullet.html heading="what will I do?" icon="fa fa-caret-right"%}
-
-{% include donut-bullet.html heading="how will I spend my retirement?" icon="fa fa-caret-right"%}
-
-{% endcapture %}
 
 {% capture explanation %}
 
@@ -63,9 +46,14 @@ With *plynty’s* focus on creating lifelong cashflow, you’ll find answers to 
 
 {% endcapture %}
 
-{% capture bottomline %}
- 
-*Where do you want your money to take you?*
+{% capture taglines %}
+
+{% include donut-bullet.html %}
+{% include donut-bullet.html %}
+{% include donut-bullet.html %}
+{% include donut-bullet.html %}
+{% include donut-bullet.html %}
+{% include donut-bullet.html %}
 
 {% endcapture %}
 

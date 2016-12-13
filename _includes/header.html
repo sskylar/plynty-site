@@ -1,3 +1,6 @@
+      <!-- Return to Top -->
+<a href="javascript:goTop();" id="return-top" class="scroll"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
+<a href="javascript:scrollDown();" id="scroll-down" class="scroll" style="display:block;"><i class="fa fa-chevron-down" aria-hidden="true"></i></a>
 <header id="header" class="header">
   <div class="section-wrapper">
     <div class="row middle-xs" style="margin: auto;">
@@ -11,7 +14,7 @@
           <li class="icon">
             <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
           </li>
-          <li><a class="nav-item" href="{{"/index.html#your-plan-is-mobile" | prepend: site.baseurl | prepend: site.url}}">get the app</a></li>
+          <li><a class="nav-item" id="#modal" href="/get-app-modal.html" rel="modal:open">get the app</a></li>
           <li><a class="nav-item" href="{{"/blog.html" | prepend: site.baseurl | prepend: site.url}}">blog</a></li>
           <li><a class="nav-item" href="{{"/aboutus.html" | prepend: site.baseurl | prepend: site.url}}">about us</a></li>
         </ul>

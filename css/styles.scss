@@ -356,12 +356,63 @@ section .row {
 }
 
 em{
-  color: $plynty-green !important;
-  font-style: normal;
+  font-style: italic;
 }
 
 i{
     font-style: italic;
+}
+
+/* Mailchimp form custom style */
+#mc_embed_signup{background:none; color:#000; clear:left; font:1.8rem 'Muli',Helvetica; width:100%;}
+#mc_embed_signup .button {
+background-color:#3ebeb0 !important;
+}
+#mc_embed_signup .button:hover {
+background-color:#3ebeb0 !important;
+}
+/* Mailchimp form custom style end*/
+
+/*Back-to-top*/
+.scroll {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index:1;
+    background: rgba(62, 190, 176, 0.9);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.scroll i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.scroll:hover {
+    background: rgba(62, 190, 176, 0.7);
+}
+.scroll:hover i {
+    color: #fff;
+    top: 5px;
 }
 
 
