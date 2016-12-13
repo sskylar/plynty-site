@@ -1,13 +1,11 @@
-<div class="donut-explanation">
+<div id="donut-explanation" class="donut-explanation">
     <span id="explanation-step-{% increment explanation %}" style="display:none;opacity:0">
-        <div class="hide-xs hide-sm">
             <span style="color:#3ebeb0"> 
                 <center>
                     <i class="{{include.icon}}" style="vertical-align:middle"></i>
                     {{include.heading}}
                 </center>
             </span>
-        </div>
-        {{include.text}}
-    </span>
+{{include.text}}
+</span>
 </div>

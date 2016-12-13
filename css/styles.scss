@@ -363,6 +363,16 @@ i{
     font-style: italic;
 }
 
+/* Mailchimp form custom style */
+#mc_embed_signup{background:none; color:#000; clear:left; font:1.8rem 'Muli',Helvetica; width:100%;}
+#mc_embed_signup .button {
+background-color:#3ebeb0 !important;
+}
+#mc_embed_signup .button:hover {
+background-color:#3ebeb0 !important;
+}
+/* Mailchimp form custom style end*/
+
 /*Back-to-top*/
 .scroll {
     position: fixed;
