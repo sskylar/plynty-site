@@ -45,6 +45,15 @@ defaults:
     author: ''
 - scope:
     path: ''
+    type: resetpassword
+  values:
+    layout: resetpassword
+    permalink: "/resetpassword/:accessToken"
+    asset: ''
+    image: ''
+    author: ''
+- scope:
+    path: ''
     type: pages
   values:
     layout: page
