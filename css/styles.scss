@@ -21,10 +21,12 @@ $social-linkedin: #0077ba !default;
 @import "aboutus";
 @import "blog";
 @import "post";
+@import "resetpassword";
 
 /**
  * Text-align fallback for older browsers
  */
+
 .start-xs {
     text-align: left;
 }
@@ -414,5 +416,3 @@ background-color:#3ebeb0 !important;
     color: #fff;
     top: 5px;
 }
-
-

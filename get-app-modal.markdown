@@ -13,4 +13,4 @@ Sign up for the *plynty* app beta today
   androidlink="https://plynty.com/android-app"
 %}-->
 
-{% include signup-form.html %}
+{% include signup-modal.html %}
