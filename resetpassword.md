@@ -3,6 +3,7 @@ title: plynty - retirement planning within your control
 layout: resetpassword
 permalink: /resetpassword.html
 ---
+
 <center><img src="../uploads/plynty_logo_green.png" width="150">
   <h1> reset your plynty password </h1>
 </center>

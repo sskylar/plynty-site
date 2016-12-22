@@ -1,5 +1,5 @@
 ---
-title: plynty - 
+title: plynty -
 date: 2016-07-14 20:55:00 Z
 layout: modal
 ---
