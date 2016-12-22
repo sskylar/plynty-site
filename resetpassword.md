@@ -1,7 +1,7 @@
 ---
 title: plynty - retirement planning within your control
+permalink: "/resetpassword.html"
 layout: resetpassword
-permalink: /resetpassword.html
 ---
 
 <center><img src="../uploads/plynty_logo_green.png" width="150">
