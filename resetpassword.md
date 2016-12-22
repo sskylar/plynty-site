@@ -43,10 +43,13 @@ layout: resetpassword
         Change Password
       </button>
       <div class="form-error" id="password_error"></div>
-        <div id="requirements">
-        <h1>valid password requirements:</h1>
-        <p>password must be 8 to 30 characters</p>
-        <p>password must include at least one of each of the following: upper-case letter, lower-case letter, digit</p>
+      <div class="mdl-tooltip" data-mdl-for="password">
+      <p id="tooltip">password must be 8 to 30 characters </p>
+      <p id="tooltip">password must include at least one of each of the following: upper-case letter, lower-case letter, digit</p>
+      </div>
+      <div class="mdl-tooltip" data-mdl-for="password_confirm">
+      <p id="tooltip">password must be 8 to 30 characters </p>
+      <p id="tooltip">password must include at least one of each of the following: upper-case letter, lower-case letter, digit</p>
       </div>
     <div class="footer">
         <div class="text">copyright © plynty, LLC 2016
@@ -64,6 +67,6 @@ layout: resetpassword
 </div>
 <div id="success" class="box">
 <h1>Success!</h1>
-    <p>you have successfully changed your password, please head back to plynty app and try logging in. :)</p>
+    <p>you have successfully changed your password, please head back to plynty app and try logging in!</p>
 </div>
 </div>
