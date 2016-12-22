@@ -1,5 +1,5 @@
 ---
-title: plynty - retirement planning within your control
+title: plynty - reset password
 permalink: "/resetpassword"
 layout: resetpassword
 ---
