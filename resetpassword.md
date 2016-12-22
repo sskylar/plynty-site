@@ -1,6 +1,6 @@
 ---
 title: plynty - retirement planning within your control
-permalink: "/resetpassword.html"
+permalink: "/resetpassword"
 layout: resetpassword
 ---
 
