@@ -44,11 +44,11 @@ defaults:
     image: ''
     author: ''
 - scope:
-    path: ''
+    path: 'resetpassword.html'
     type: resetpassword
   values:
     layout: resetpassword
-    permalink: "/resetpassword"
+    permalink: pretty
     asset: ''
     image: ''
     author: ''
