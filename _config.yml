@@ -48,7 +48,7 @@ defaults:
     type: resetpassword
   values:
     layout: resetpassword
-    permalink: pretty
+    permalink: "/resetpassword.html"
     asset: ''
     image: ''
     author: ''
