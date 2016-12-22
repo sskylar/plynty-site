@@ -1,6 +1,6 @@
 ---
 title: plynty - reset password
-permalink: "/resetpassword.html"
+permalink: "/resetpassword"
 layout: resetpassword
 ---
 
