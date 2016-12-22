@@ -44,7 +44,7 @@ defaults:
     image: ''
     author: ''
 - scope:
-    path: 'resetpassword.html'
+    path: resetpassword.html
     type: resetpassword
   values:
     layout: resetpassword
