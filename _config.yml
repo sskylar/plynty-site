@@ -48,7 +48,7 @@ defaults:
     type: resetpassword
   values:
     layout: resetpassword
-    permalink: "/resetpassword/:accessToken"
+    permalink: "/resetpassword"
     asset: ''
     image: ''
     author: ''
