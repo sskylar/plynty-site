@@ -44,15 +44,6 @@ defaults:
     image: ''
     author: ''
 - scope:
-    path: resetpassword.html
-    type: resetpassword
-  values:
-    layout: resetpassword
-    permalink: "/resetpassword.html"
-    asset: ''
-    image: ''
-    author: ''
-- scope:
     path: ''
     type: pages
   values:
