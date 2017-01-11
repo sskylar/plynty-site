@@ -12,43 +12,24 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 
   <!-- angular material styles -->
-  <link rel="stylesheet" href="{{ "/bower_components/angular-material/angular-material.min.css" | prepend: site.baseurl | prepend: site.url}}">
+  <link rel="stylesheet" href="{{ "/assets/bower_components/angular-material/angular-material.min.css" | prepend: site.baseurl | prepend: site.url}}">
 
   <!-- flexboxgrid styles -->
   <!--<link rel="stylesheet" href="{{ "/bower_components/flexboxgrid/css/flexboxgrid.min.css" | prepend: site.baseurl | prepend: site.url}}" type="text/css">-->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/flexboxgrid/6.3.0/flexboxgrid.min.css" type="text/css" >
 
   <!-- app styles -->
-  <link rel="stylesheet" href="{{ "/css/styles.css" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- font-awesome: icons -->
-  <link rel="stylesheet" href="{{ "/bower_components/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ "/assets/bower_components/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- Mailchimp input css -->
   <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 
-  <!-- angular -->
-  <script src="/bower_components/angular/angular.min.js"></script>
-
-  <!-- angular animate -->
-  <script src="/bower_components/angular-animate/angular-animate.min.js"></script>
-
-  <!-- angular aria -->
-  <script src="/bower_components/angular-aria/angular-aria.min.js"></script>
-
-  <!-- angular material -->
-  <script src="/bower_components/angular-material/angular-material.min.js"></script>
-
   <!-- Jquery -->
-  <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
-  <script src="/scripts/jquery.modal.min.js" type="text/javascript" charset="utf-8"></script>
-  <link rel="stylesheet" href="/css/jquery.modal.css" type="text/css" media="screen" />
-
-  <!-- ngapp scripts -->
-  <script src="/ngapp/app.module.js"></script>
-  <script src="/ngapp/app.controller.js"></script>
-  <script src="/ngapp/app.config.js"></script>
-
+  <script src="/assets/bower_components/jquery/jquery-3.1.1.min.js"></script>
+  <script src="/assets/scripts/jquery.modal.min.js" type="text/javascript" charset="utf-8"></script>
   <script>
   /* Menu */
     function myFunction() {

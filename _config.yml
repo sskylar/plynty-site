@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  assets:
+    title: assets
+    output: true
   authors:
     title: authors
     output: true
@@ -48,8 +51,15 @@ defaults:
     type: pages
   values:
     layout: page
-email: pfischer@vizuri.com
+email: support@plynty.com
 markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+assets:
+  compress:
+    css: true
+    js: true
 excerpt_separator: "<!--more-->"
 gems:
 - jekyll-textile-converter

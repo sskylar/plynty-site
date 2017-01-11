@@ -125,28 +125,4 @@
             line-height: 2rem;
         }
     }
-	/* IE 10 & 11 */
-	@media all and  (-ms-high-contrast: none), (-ms-high-contrast: active){
-		#animated-plynty-donut {
-			width: 450px !important;
-			height: 300px !important;
-		}
-	}
-	@media all and  (-ms-high-contrast: none), (-ms-high-contrast: active),(max-width: 800px) {
-		#animated-plynty-donut {
-			margin-left: -20px;
-		}
-	}
-	/* IE 11+ */
-	@supports (-ms-accelerator:true){
-		#animated-plynty-donut {
-			width: 450px !important;
-			height: 300px !important;
-		}
-		@media screen and (max-width: 800px) {
-			#animated-plynty-donut {
-				margin-left: -20px;
-			}
-		}
-	}
 }
