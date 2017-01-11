@@ -1,6 +1,7 @@
 ---
-title: plynty -
+title: modal.plynty-signup
 date: 2016-07-14 20:55:00 Z
+page: modal
 layout: modal
 ---
 
