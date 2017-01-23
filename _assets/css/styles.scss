@@ -380,6 +380,30 @@ input:focus {outline: none; }
     width: 100%;
     margin-bottom: 5px;
 }
+.invalid input:required:invalid {
+    background: #f4c1c1 !important;
+    color: $plynty-dark-gray !important;
+}
+
+.invalid input:required:valid {
+    background: none !important;
+}
+
+input {
+  display: block;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: $plynty-dark-gray !important;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: $plynty-dark-gray !important;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: $plynty-dark-gray !important;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: $plynty-dark-gray !important;
+}
 /* Mailchimp form custom style end*/
 
 /*Back-to-top*/
