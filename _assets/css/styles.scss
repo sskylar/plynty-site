@@ -12,6 +12,7 @@ $plynty-blue:  #00008b !default;
 $plynty-gray:  #9E9E9E !default;
 $plynty-white: #ffffff !default;
 $plynty-header: #f9f9f7 !default;
+$plynty-dark-gray: #65696c !default;
 
 $social-twitter: #3b539e !default;
 $social-facebook: #5489d1 !default;
@@ -369,10 +370,15 @@ i{
 /* Mailchimp form custom style */
 #mc_embed_signup{background:none; color:#000; clear:left; font:1.8rem 'Muli',Helvetica; width:100%;}
 #mc_embed_signup .button {
-background-color:#3ebeb0 !important;
+    background-color:#3ebeb0 !important;
 }
 #mc_embed_signup .button:hover {
-background-color:#3ebeb0 !important;
+    background-color:#3ebeb0 !important;
+}
+input:focus {outline: none; }
+#mc_embed_signup input.email {
+    width: 100%;
+    margin-bottom: 5px;
 }
 /* Mailchimp form custom style end*/
 

@@ -16,4 +16,4 @@ Sign up for the plynty app beta today.
   ioslink="https://plynty.com/ios-app"
   androidlink="https://plynty.com/android-app"
 %}-->
-{% include signup-form.html %}
+{% include button.html style="primary" label="join the beta" target="get-app-modal.html" %}
