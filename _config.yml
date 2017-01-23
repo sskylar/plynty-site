@@ -14,9 +14,6 @@ collections:
   authors:
     title: authors
     output: true
-  blogs:
-    title: blogs
-    output: true
   formats:
     title: formats
     output: true
