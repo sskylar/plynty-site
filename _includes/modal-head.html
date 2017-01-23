@@ -2,21 +2,32 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="icon"
-      type="image/png"
-      href="/uploads/plynty_logo_green.png">
+  <link rel="icon" type="image/png" href="/uploads/plynty_logo_green.png">
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <!-- flexboxgrid styles -->
   <!--<link rel="stylesheet" href="{{ "/bower_components/flexboxgrid/css/flexboxgrid.min.css" | prepend: site.baseurl | prepend: site.url}}" type="text/css">-->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/flexboxgrid/6.3.0/flexboxgrid.min.css" type="text/css" >
-
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/flexboxgrid/6.3.0/flexboxgrid.min.css" type="text/css">
   <!-- Mailchimp input css -->
   <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-
   <!-- app styles -->
-  <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl | prepend: site.url }}">
-
+  <link rel="stylesheet" href="{{ " /assets/css/styles.css " | prepend: site.baseurl | prepend: site.url }}">
   <!-- font-awesome: icons -->
-  <link rel="stylesheet" href="{{ "/assets/bower_components/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ " /assets/bower_components/font-awesome/css/font-awesome.min.css
+    " | prepend: site.baseurl | prepend: site.url }}">
+    <script>
+      function hasHtml5Validation() {
+        return typeof document.createElement('input').checkValidity === 'function';
+      }
 
+      if (hasHtml5Validation()) {
+        $('.validate-form').submit(function (e) {
+          if (!this.checkValidity()) {
+            e.preventDefault();
+            $(this).addClass('invalid');
+          } else {
+            $(this).removeClass('invalid');
+          }
+        });
+      }
+    </script>
 </head>
