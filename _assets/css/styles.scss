@@ -23,6 +23,7 @@ $social-linkedin: #0077ba !default;
 @import "aboutus";
 @import "blog";
 @import "post";
+@import "resetpassword";
 @import "modal";
 
 /**
@@ -377,8 +378,8 @@ i{
 }
 input:focus {outline: none; }
 #mc_embed_signup input.email {
-    width: 100%;
-    margin-bottom: 5px;
+    width: 100% !important;
+    margin-bottom: 5px !important;
 }
 .invalid input:required:invalid {
     background: #f4c1c1 !important;
