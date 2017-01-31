@@ -10,10 +10,11 @@ layout: default
 
 We've put retirement planning where it belongs -- on your phone, in a convenient app. 
 
-Sign up for the plynty app beta today.
+Download the *plynty* app today.
 
 <!--{% include app-stores.html
   ioslink="https://plynty.com/ios-app"
   androidlink="https://plynty.com/android-app"
 %}-->
-{% include button.html style="primary" label="join the beta" target="get-app-modal.html" %}
+
+{% include button.html style="primary" label="get the app" target="get-app-modal.html" %}
