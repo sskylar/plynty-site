@@ -21,12 +21,15 @@ layout: resetpassword
     <form id="verify_token_form">
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="text" id="token">
-        <label class="mdl-textfield__label" for="token">Token</label>
+        <label class="mdl-textfield__label" for="token">access code</label>
       </div>
       <button type="submit" id="token_submit" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
         Next
       </button>
       <div class="form-error" id="token_error"></div>
+      <div class="mdl-tooltip" data-mdl-for="token">
+      <p id="tooltip">access code has been sent to your mobile</p>
+      </div>
     </form>
     <form id="password_change">
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
@@ -51,22 +54,16 @@ layout: resetpassword
       <p id="tooltip">password must be 8 to 30 characters </p>
       <p id="tooltip">password must include at least one of each of the following: upper-case letter, lower-case letter, digit</p>
       </div>
-    <div class="footer">
-        <div class="text">copyright © plynty, LLC 2016
-        </div>
-                <a href="/privacy.html">privacy policy | </a>
-        <a href="/terms.html">terms of use</a>
-        </div>
   </form>
  <div class="footer">
         <div class="text">copyright © plynty, LLC 2016
         </div>
-                <a href="/privacy.html">privacy policy | </a>
-        <a href="/terms.html">terms of use</a>
+                <a href="/privacy.html" class="text">privacy policy | </a>
+        <a href="/terms.html" class="text">terms of use</a>
         </div>
 </div>
 <div id="success" class="box">
-<h1>Success!</h1>
+<h1>You did it!</h1>
     <p>you have successfully changed your password, please head back to plynty app and try logging in!</p>
 </div>
 </div>
