@@ -2,6 +2,7 @@
 title: plynty - reset password
 layout: resetpassword
 ---
+
 <center>
   <img src="../uploads/plynty_logo_green.png" width="150">
   <h1> reset your plynty password </h1>
