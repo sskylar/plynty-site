@@ -17,14 +17,17 @@ collections:
   formats:
     title: formats
     output: true
-  products:
-    title: products
-    output: true
   sections:
     title: sections
     output: true
   support-articles:
     title: support articles
+    output: true
+  press:
+    title: press
+    output: true
+  faq:
+    title: faq
     output: true
 defaults:
 - scope:
@@ -43,6 +46,18 @@ defaults:
     asset: ''
     image: ''
     author: ''
+- scope:
+    path: ''
+    type: press
+  values:
+    image: ''
+    asset: ''
+    author: 'plynty'
+- scope:
+    path: ''
+    type: faq
+  values:
+    author: 'plynty'
 - scope:
     path: ''
     type: pages

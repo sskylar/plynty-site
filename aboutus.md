@@ -1,6 +1,5 @@
 ---
 title: plynty - about us
-author: paul
 layout: default
 ---
 

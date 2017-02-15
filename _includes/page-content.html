@@ -102,6 +102,14 @@
                 </div>
             {% endif %}
 
+            {% if section.format == 'page-info-header' %}
+                <div class="row section-wrapper center-xs">
+                    <div class="col-xs-12 col-md-6 col-lg-6 center-xs middle-xs center-md">
+                        {{section.content}}
+                    </div>
+                </div>
+            {% endif %}
+
             {% if section.format == 'photos' %}
                 <div class="row section-wrapper middle-xs center-xs photo-container">
                     {{section.content}}

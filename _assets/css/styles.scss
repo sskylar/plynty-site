@@ -25,6 +25,8 @@ $social-linkedin: #0077ba !default;
 @import "post";
 @import "resetpassword";
 @import "modal";
+@import "press";
+@import "faq";
 
 /**
  * Text-align fallback for older browsers
@@ -47,7 +49,6 @@ $social-linkedin: #0077ba !default;
     .end-sm {
         text-align: right;
     }
-
 }
 
 @media only screen and (min-width: 64em) {
@@ -122,7 +123,7 @@ header .row {
 }
 
 nav {
-  padding-right: 3rem !important;
+    padding-right: 3rem !important;
 }
 
 .nav-item {
@@ -147,6 +148,20 @@ nav a:hover {
 @media only screen and (max-width: 500px){
     nav a{
         padding-left: 0;
+    }
+    footer nav{
+        margin-left: 2px;
+    }
+    footer nav a{
+        padding: 0;
+        font-size: 1.5rem !important;
+        margin-left: 0.7rem;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    footer .patent-text{
+        margin-left: 0rem !important;
     }
 }
 
@@ -176,12 +191,6 @@ footer {
     width: 100%;
 }
 
-footer address,a{
-    color: $plynty-white;
-    font-style: normal;
-    font-size: 1.5rem;
-}
-
 footer h1 {
     font-size: 3.6rem;
     color: $plynty-white;
@@ -193,23 +202,7 @@ footer p {
 }
 
 footer .trademarks p {
-    font-size: 1.2rem;
-}
-
-footer div.links ul {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 1rem;
-}
-
-footer div.links ul li {
-  display: inline;
-  list-style-type:none;
-}
-
-footer div.links a {
-    color: $plynty-white;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 
 footer form {
@@ -243,12 +236,23 @@ footer nav a {
     font-size: 1.7rem;
 }
 
+footer .patent-text{
+    margin-left: -2rem;
+    color:white;
+    font-size:1.6rem;
+}
+
+footer .vert-align{
+    position: relative;
+    top: calc(50% - 10px);
+}
+
 .md-button {
-  padding-left: 3rem;
-  padding-right: 3rem;
-  margin-left: 0;
-  margin-top: 1.9rem;
-  font-size: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-left: 0;
+    margin-top: 1.9rem;
+    font-size: 2rem;
 }
 
 .md-accent {
@@ -367,45 +371,6 @@ em{
 i{
     font-style: italic;
 }
-
-/* Mailchimp form custom style */
-#mc_embed_signup{background:none; color:#000; clear:left; font:1.8rem 'Muli',Helvetica; width:100%;}
-#mc_embed_signup .button {
-    background-color:#3ebeb0 !important;
-}
-#mc_embed_signup .button:hover {
-    background-color:#3ebeb0 !important;
-}
-input:focus {outline: none; }
-#mc_embed_signup input.email {
-    width: 100% !important;
-    margin-bottom: 5px !important;
-}
-.invalid input:required:invalid {
-    background: #f4c1c1 !important;
-    color: $plynty-dark-gray !important;
-}
-
-.invalid input:required:valid {
-    background: none !important;
-}
-
-input {
-  display: block;
-}
-::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-  color: $plynty-dark-gray !important;
-}
-::-moz-placeholder { /* Firefox 19+ */
-  color: $plynty-dark-gray !important;
-}
-:-ms-input-placeholder { /* IE 10+ */
-  color: $plynty-dark-gray !important;
-}
-:-moz-placeholder { /* Firefox 18- */
-  color: $plynty-dark-gray !important;
-}
-/* Mailchimp form custom style end*/
 
 /*Back-to-top*/
 .scroll {
