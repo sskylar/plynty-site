@@ -1,0 +1,17 @@
+<div class="row top-xs center-md">
+        {% for press in site.press %}
+        <div class="col-xs-6 col-md-2">
+                <div class="card center-xs">
+                        <a href="{{ press.asset }}"> <img src="{{ press.image }}" /></a>
+                        <div class=" row card-container center-xs">
+                                <div class="col-xs-10 start-xs">
+                                        <a href="{{ press.asset }}"> {{press.title}}</a>
+                                </div> 
+                                <div class="col-xs-2">
+                                        <a href="{{ press.asset }}"> <i class="fa fa-download" aria-hidden="true"></i></a>
+                                </div>
+                        </div>
+                </div>
+        </div>
+        {% endfor %}
+</div>

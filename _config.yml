@@ -26,6 +26,9 @@ collections:
   support-articles:
     title: support articles
     output: true
+  press:
+    title: press
+    output: true
 defaults:
 - scope:
     path: ''
