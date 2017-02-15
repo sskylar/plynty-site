@@ -48,49 +48,49 @@
   }
 
 
-ul, li { list-style: none; margin:0; padding:0; }
+  ul, li { list-style: none; margin:0; padding:0; }
 
-h1 {
-  text-align: center;
-  margin-bottom: 20px;
-}
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
 
-i{
-  font-size: 1.4rem;
-}
+  i{
+    font-size: 1.4rem;
+  }
 
-.faq .separator {
-  border-bottom:1px #ddd solid;
-}
+  .separator {
+    border-bottom:1px #ddd solid;
+  }
 
-.faq li{
-  padding: 1rem;
-}
+  li{
+    padding: 1rem;
+  }
 
-.faq li.q {
-  font-size: 1.8rem;
-  cursor: pointer;
-  color: $plynty-green;
-}
+  li.q {
+    font-size: 1.8rem;
+    cursor: pointer;
+    color: $plynty-green;
+  }
 
-.faq li.a {
-  display: none;
-  font-size: 1.8rem;
-  padding: 1rem;  
-  color: #65696c;
-  padding-top: 0 !important;
-  margin-left: 1.5rem !important;
-}
+  li.a {
+    display: none;
+    font-size: 1.8rem;
+    padding: 1rem;  
+    color: #65696c;
+    padding-top: 0 !important;
+    margin-left: 1.5rem !important;
+  }
 
-.rotate {
-  -moz-transform: rotate(90deg);
-  -webkit-transform: rotate(90deg);
-  transform: rotate(90deg);
-}
-@media (max-width:800px) {
+  p{
+    margin: 0 !important;
+  }
 
-#container { width: 90%; }
-}
+  .rotate {
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
 
   @media (max-width: 48em)                       { .hidden-xs { display: none !important; } }
   @media (min-width: 48em) and (max-width: 62em) { .hidden-sm { display: none !important; } }
