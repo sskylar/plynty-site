@@ -61,7 +61,7 @@ layout: resetpassword
       <p>you have successfully changed your password, please head back to plynty app and try logging in!</p>
     </div>
     <div class="footer">
-      <div class="text">copyright © plynty, LLC 2016
+      <div class="text">copyright © plynty, LLC 2017
       </div>
       <a href="/privacy.html" class="text">privacy policy | </a>
       <a href="/terms.html" class="text">terms of use</a>
