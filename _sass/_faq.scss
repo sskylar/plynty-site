@@ -1,0 +1,99 @@
+/* faq page styles */
+.faq {
+
+  background-color: $plynty-white;
+  $dark-gray: #65696c;
+
+  section:nth-child(even) {
+    background-color: $plynty-white !important;
+    border-bottom: none;
+  }
+
+  section:nth-child(odd) {
+    background-color: $plynty-white !important;
+    border-bottom: none;
+  }
+
+  section:first-child {
+    background-color: $plynty-white !important;
+  }
+
+  em{
+    color: $plynty-green !important;
+  }
+
+  section:first-child h1 {
+    font-size: 4rem;
+    color: $plynty-pink;
+  }
+
+  h2 {
+    color: $dark-gray;
+    font-size: 1.8rem;
+    padding-top: 1.5rem;
+    margin:0;
+  }
+
+  h3 {
+    color: $dark-gray;
+    font-size: 1.8rem;
+    margin:0;
+    font-weight:normal;
+  }
+
+  hr{
+    border: 0;  
+    height: 1px;
+    background: #e4e4e4;
+  }
+
+
+ul, li { list-style: none; margin:0; padding:0; }
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+i{
+  font-size: 1.4rem;
+}
+
+.faq .separator {
+  border-bottom:1px #ddd solid;
+}
+
+.faq li{
+  padding: 1rem;
+}
+
+.faq li.q {
+  font-size: 1.8rem;
+  cursor: pointer;
+  color: $plynty-green;
+}
+
+.faq li.a {
+  display: none;
+  font-size: 1.8rem;
+  padding: 1rem;  
+  color: #65696c;
+  padding-top: 0 !important;
+  margin-left: 1.5rem !important;
+}
+
+.rotate {
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+@media (max-width:800px) {
+
+#container { width: 90%; }
+}
+
+  @media (max-width: 48em)                       { .hidden-xs { display: none !important; } }
+  @media (min-width: 48em) and (max-width: 62em) { .hidden-sm { display: none !important; } }
+  @media (min-width: 62em) and (max-width: 75em) { .hidden-md { display: none !important; } }
+  @media (min-width: 75em)                       { .hidden-lg { display: none !important; } }
+}

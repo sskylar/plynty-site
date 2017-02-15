@@ -1,7 +1,7 @@
 ---
-title: press.our-press-kit
+title: press.info
 position: 1
-format: press-top
+format: page-info-header
 page: press
 layout: default
 ---
