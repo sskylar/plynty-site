@@ -14,20 +14,20 @@ collections:
   authors:
     title: authors
     output: true
+  faq:
+    title: faq
+    output: true
   formats:
     title: formats
+    output: true
+  press:
+    title: press
     output: true
   sections:
     title: sections
     output: true
   support-articles:
     title: support articles
-    output: true
-  press:
-    title: press
-    output: true
-  faq:
-    title: faq
     output: true
 defaults:
 - scope:
@@ -52,12 +52,12 @@ defaults:
   values:
     image: ''
     asset: ''
-    author: 'plynty'
+    author: plynty
 - scope:
     path: ''
     type: faq
   values:
-    author: 'plynty'
+    author: plynty
 - scope:
     path: ''
     type: pages
