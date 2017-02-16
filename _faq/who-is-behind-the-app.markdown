@@ -1,7 +1,7 @@
 ---
 title: Who is behind the app?
 date: 2017-02-16 19:36:00 Z
-position: 5
+position: 6
 ---
 
 plynty is a social enterprise developed by AEM Corporation. AEM traditionally works with federal agencies and large companies, so this is a new kind of initiative.
