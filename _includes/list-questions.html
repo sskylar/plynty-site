@@ -1,7 +1,7 @@
 <ul class="faq">
          <div class="col-xs-12 col-md-12">
         {% for faq in site.faq %}
-                <li class="q"><i class="fa fa-chevron-right" aria-hidden="true"></i> {{faq.title}}</li>
+                <li class="col-md-8 start-xs q"> {{faq.title}} <i class="col-md-4 end-xs fa fa-chevron-right" aria-hidden="true"></i></li>
                 <li class="a">{{faq.content}}</li>
                  <div class="separator"></div>
         {% endfor %}
