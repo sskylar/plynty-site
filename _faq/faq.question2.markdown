@@ -15,3 +15,9 @@ author: plynty
   2. test2
 
   3. test3 number
+
+     > block quote
+
+     *italics*
+
+  **bold text**
