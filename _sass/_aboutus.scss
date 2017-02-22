@@ -40,12 +40,6 @@
     margin:0;
     font-weight:normal;
   }
-
-  hr{
-    border: 0;  
-    height: 1px;
-    background: #e4e4e4;
-  }
   /* Header Image CSS Section */
   .headerImage{
       position: relative;
@@ -59,4 +53,18 @@
   @media (min-width: 48em) and (max-width: 62em) { .hidden-sm { display: none !important; } }
   @media (min-width: 62em) and (max-width: 75em) { .hidden-md { display: none !important; } }
   @media (min-width: 75em)                       { .hidden-lg { display: none !important; } }
+}
+
+hr{
+  border: 0;  
+  height: 1px;
+  background: #e4e4e4;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+  border: 2px solid $plynty-green;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
 }

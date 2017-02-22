@@ -6,7 +6,7 @@ layout: page
 
 # Terms of Use
 
-Last updated : October 26, 2016
+Last updated : February 22, 2017
 
 These Terms of Use (the “Terms”) is a contract between you (“you”, “your”) and plynty LLC and its affiliates (“plynty”, “Compendium Finance LLC””, “we”, “us”, or “our”) and applies to your use of plynty products and services and any other plynty features, technologies, and/or functionalities offered by plynty on our website www.plynty.com (the “Website”), our mobile application (the “plynty App”), or any other services provided by us and on which a link to the Terms are displayed (collectively, together with the Website and plynty App, the “plynty Services” or “Services”).  Services are provided to you subject to the Terms as well as our Privacy Policy (“Privacy Policy”), which is available at https://www.plynty.com/privacy-policy, and by this reference is incorporated into the Terms.
 
@@ -42,7 +42,7 @@ You may provide feedback, comments, and suggestions for improvements to the Serv
 
 ## 7. PRIVACY
 
-We know that your privacy is of the utmost importance to you.  It is to us as well. Please read our Privacy Policy (https://www.plynty.com/privacy-policy in order to better understand our commitment to maintaining your privacy and how we collect, use and disclose your Personal Information. By having access to or using the Services you accept that your use of the Services are subject to our Privacy Policy.
+We know that your privacy is of the utmost importance to you.  It is to us as well. Please read our Privacy Policy (https://www.plynty.com/privacy-policy) in order to better understand our commitment to maintaining your privacy and how we collect, use and disclose your Personal Information. By having access to or using the Services you accept that your use of the Services are subject to our Privacy Policy.
 
 ## 8. MOBILE USAGE
 
@@ -55,7 +55,7 @@ By using the Services, you consent to receive and view notices, statements, disc
 
 ## 10. SUBSCRIPTION
 
-Your use of the plynty App is subject to a monthly subscription fee for a period of time as specified during account registration (a “Subscription”). Your Subscription will automatically continue on a subscription-to-subscription basis and renew at the end of each period, unless you cancel your Subscription or we terminate it. The specifics of your Subscription are viewable on the profile page of the plynty App.  By having access to and using our Services you agree that your Subscription is for personal use only. The cancellation of a Subscription will take effect the day after the last day of the current subscription period. If you cancel your payment or Subscription and/or terminate the Terms before the end of the current subscription period, we will not refund any subscription fees already paid to us. plynty reserves the right, in its sole discretion, to amend or change it price for Subscriptions for Services, and will communicate any price changes to you in advance and, if applicable, how to accept those changes. Price changes for Subscriptions will take effect at the start of the next subscription period following the date of the price change. As permitted by local law, you accept the new price by continuing to use the Services after the price change takes effect. If you do not agree with the price changes, you have the right to reject the change by deleting your plynty Account prior to the price change going into effect.
+Your use of the plynty App is subject to a monthly subscription fee for a period of time as specified during account registration (a “Subscription”). Your Subscription will automatically continue on a subscription-to-subscription basis and renew at the end of each period, unless you cancel your Subscription or we terminate it. The specifics of your Subscription are viewable on the profile page of the plynty App.  By having access to and using our Services you agree that your Subscription is for personal use only. The cancellation of a Subscription will take effect the day after the last day of the current subscription period. If you cancel your payment or Subscription and/or terminate the Terms before the end of the current subscription period, we will not refund any subscription fees already paid to us. plynty reserves the right, in its sole discretion, to amend or change it's price for Subscriptions for Services, and will communicate any price changes to you in advance and, if applicable, how to accept those changes. Price changes for Subscriptions will take effect at the start of the next subscription period following the date of the price change. As permitted by local law, you accept the new price by continuing to use the Services after the price change takes effect. If you do not agree with the price changes, you have the right to reject the change by deleting your plynty Account prior to the price change going into effect.
 
 
 ## 11. LINKS TO THIRD PARTIES
