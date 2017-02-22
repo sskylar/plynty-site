@@ -6,7 +6,7 @@ layout: page
 
 # Privacy Policy
 
-Last updated: October 26, 2016
+Last updated: February 22, 2017
 
 Welcome and thank you for your interest in plynty, LLC (“plynty”).  This Privacy Policy expresses our commitment to the protection of your privacy. We share this document to help you understand what personal information we collect, how that information is used to serve you, and how your privacy is safeguarded. You are consenting to the privacy practices explained within this Policy by using the services we offer.
 
@@ -55,7 +55,7 @@ Our sole purpose in collecting Personal Information is to provide you with highl
 
 + deliver the personalized financial services and customer support you request;
 + monitor and improve our Services for you;
-+ send updates about new feature that we are offering within the mobile app;
++ send updates about new features that we are offering within the mobile app;
 + perform fiduciary duties as required by law;
 + intercept potentially fraudulent or illegal activities.
 

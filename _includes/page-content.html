@@ -122,6 +122,14 @@
                 </div>
             {% endif %}
 
+            {% if section.format == 'maps' %}
+            <div class="row section-wrapper center-xs">
+                <div class="col-xs-12 center-x middle-xs center-md">
+                    {{section.content}}
+                </div>
+            </div>
+            {% endif %}
+
         </section>
 
     {% endfor %}
