@@ -3,7 +3,7 @@ title: home.you-can-do-this
 position: 6
 format: image-left
 page: home
-image: "/uploads/cashflow_reduce-expenses.png"
+image: "/uploads/reduce-expenses.png"
 layout: default
 ---
 
