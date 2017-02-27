@@ -1,7 +1,7 @@
 ---
 title: Isn't plynty a simple app to be charging money?
 date: 2017-02-27 16:26:00 Z
-position: 10
+position: 9
 ---
 
 That is a great complement to the team behind the app. While the computations in the app can be incredibly complex, it is simple to progress through the planning process and visualize your retirement.

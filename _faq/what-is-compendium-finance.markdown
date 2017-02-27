@@ -1,7 +1,7 @@
 ---
 title: What is Compendium Finance?
 date: 2017-02-27 16:22:00 Z
-position: 8
+position: 7
 ---
 
 Compendium Finance is another wholly owned subsidiary of AEM Corporation. We created a separate company so that we could offer investment advisory and portfolio management services. Compendium Finance works with plynty to power answers to retirement questions sent by our subscribers.

@@ -1,7 +1,7 @@
 ---
 title: What do users like about plynty?
 date: 2017-02-16 19:35:00 Z
-position: 5
+position: 4
 ---
 
 · **Accessible.** You can easily visualize your projected monthly cashflow in retirement, just as you would understand your current household expenses. No other service does this.

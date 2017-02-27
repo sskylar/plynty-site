@@ -1,7 +1,7 @@
 ---
 title: How does plynty protect user data?
 date: 2017-02-27 16:31:00 Z
-position: 0
+position: 13
 ---
 
 plynty takes user privacy very seriously. We defend every detail of your data through proven technology and partnerships with leading experts:

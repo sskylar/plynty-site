@@ -1,7 +1,7 @@
 ---
 title: What problems are you trying to solve?
 date: 2017-02-16 19:32:00 Z
-position: 2
+position: 1
 ---
 
 Our team comes from the financial industry. Frankly, we saw that retirement planning doesn’t work for a lot of people. Financial planners can be hard to identify, cost a lot of money, and are often difficult to evaluate for the value they add.

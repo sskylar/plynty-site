@@ -1,7 +1,7 @@
 ---
 title: How does plynty work? What is its business model?
 date: 2017-02-16 19:34:00 Z
-position: 3
+position: 2
 ---
 
 The free version of the app gives you all of the tools you need to understand what retirement will mean for you—and a plan for how to get there.
