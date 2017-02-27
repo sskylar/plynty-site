@@ -1,7 +1,7 @@
 ---
 title: What is the target audience for the app?
 date: 2017-02-16 19:35:00 Z
-position: 3
+position: 7
 ---
 
 There’s a national need, so plynty offers a national solution.
