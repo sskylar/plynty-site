@@ -1,7 +1,7 @@
 ---
 title: What is plynty's mission?
 date: 2017-02-16 19:31:00 Z
-position: 4
+position: 1
 ---
 
 Our mission is simple and clear: to help everyone retire.
