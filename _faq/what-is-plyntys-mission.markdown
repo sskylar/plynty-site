@@ -4,8 +4,6 @@ date: 2017-02-16 19:31:00 Z
 position: 0
 ---
 
-Our mission is simple and clear: to help everyone retire.
+Our mission is simple and clear: to help everyone retire better.  
 
-There is a very real retirement crisis in America. In response, plynty offers a powerful and free planning app—no strings attached. We also offer an affordable upgrade for users who want more advanced support.
-
-It doesn’t matter what your financial situation is or what your goals are. plynty is a retirement planning app for everyone.
+We know there is a real retirement crisis in our country, so we developed the plynty app to solve it. plynty will guide everyone, no matter your net worth, through the creation of an achievable retirement plan. And we won’t stop there - plynty will stay with you as life happens and your plan changes to keep you on track for a better retirement.
