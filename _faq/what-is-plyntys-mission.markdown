@@ -1,5 +1,5 @@
 ---
-title: What is plynty's mission?
+title: What is your mission?
 date: 2017-02-16 19:31:00 Z
 position: 0
 ---
