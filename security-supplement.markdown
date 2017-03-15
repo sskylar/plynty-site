@@ -6,6 +6,7 @@ date: 2017-03-15 17:18:00 Z
 # Security Supplement
 Last updated: March 12, 2017
 
+
 We deploy a comprehensive set of security safeguards and procedures to help keep your personal information safe.
 
 {% include icon-bullet.html heading="&nbsp;layered physical security" %} 
