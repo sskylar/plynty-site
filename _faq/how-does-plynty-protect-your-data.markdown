@@ -5,19 +5,14 @@ date: 2017-03-14 15:02:00 Z
 
 At plynty, we take the privacy of your personal information very seriously and we defend it with proven technology and industry best practices.
 
-{% include icon-bullet.html 
-text="Layers of security keep your data secure and private." %}
+→ Layers of security keep your data secure and private.
 
-{% include icon-bullet.html 
-text="Bank-level, 256-bit encryption protects your data from prying eyes." %}
+→ Bank-level, 256-bit encryption protects your data from prying eyes.
 
-{% include icon-bullet.html 
-text="Two-factor login authentication safeguards access to your account." %}
+→ Two-factor login authentication safeguards access to your account.
 
-{% include icon-bullet.html 
-text="Stringent operational controls protect your data from harm and unauthorized access." %}
+→ Stringent operational controls protect your data from harm and unauthorized access."
 
-{% include icon-bullet.html 
-text="Systematic testing by a leading cybersecurity company  keeps our defenses up-to-date and strong." %}
+→ Systematic testing by a leading cybersecurity company  keeps our defenses up-to-date and strong.
 
 For additional information, review our Security Supplement.
