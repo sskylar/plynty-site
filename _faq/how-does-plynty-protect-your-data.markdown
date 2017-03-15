@@ -11,7 +11,7 @@ At plynty, we take the privacy of your personal information very seriously and w
 
 → Two-factor login authentication safeguards access to your account.
 
-→ Stringent operational controls protect your data from harm and unauthorized access."
+→ Stringent operational controls protect your data from harm and unauthorized access.
 
 → Systematic testing by a leading cybersecurity company  keeps our defenses up-to-date and strong.
 
