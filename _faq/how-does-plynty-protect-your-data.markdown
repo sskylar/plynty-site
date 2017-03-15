@@ -5,6 +5,7 @@ date: 2017-03-14 15:02:00 Z
 
 At plynty, we take the privacy of your personal information very seriously and we defend it with proven technology and industry best practices.
 
+{% include icon-bullet.html heading="&nbsp;&nbsp;Layers of security keep your data secure and private." %}
 
 
 {% include icon-bullet.html 
