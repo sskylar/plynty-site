@@ -7,13 +7,13 @@ date: 2017-03-15 17:18:00 Z
 
 We deploy a comprehensive set of security safeguards and procedures to help keep your personal information safe.
 
-{% include icon-bullet.html heading="&nbsp;&nbsp;layered physical security" %}
+## layered physical security
 
 The plynty app does not store any personal information on your mobile device. So, should someone gain access to your phone or tablet, they cannot compromise your account credentials and private data.
  
 Our servers are hosted on Amazon Web Services® and shielded from hackers behind their secure and continuously monitored firewalls.
  
-{% include icon-bullet.html heading="&nbsp;strong encryption" %}
+## strong encryption
 
 Your data is SSL encrypted when in transit and AES-256 encrypted while on our servers. These encryption techniques are the most secure in the financial industry, and help keep your data safe from prying eyes.
  
