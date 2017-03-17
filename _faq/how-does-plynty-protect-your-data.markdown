@@ -15,4 +15,4 @@ At plynty, we take the privacy of your personal information very seriously and w
 
   → Systematic testing by a leading cybersecurity company  keeps our defenses up-to-date and strong.
 
-For additional information, review our Security Supplement.
+For additional information, review our [Security Supplement](https://plynty.com/security-supplement.html).
