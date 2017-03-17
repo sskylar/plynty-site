@@ -1,5 +1,5 @@
 ---
-title: aboutus.money-has-story
+title: aboutus.get-to-know-us
 position: 1
 format: about-top
 page: aboutus

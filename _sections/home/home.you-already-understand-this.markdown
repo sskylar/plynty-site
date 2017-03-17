@@ -1,5 +1,5 @@
 ---
-title: home.helping-make-sense
+title: home.you-already-understand-this
 position: 8
 format: image-right
 page: home
