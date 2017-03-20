@@ -22,4 +22,4 @@ text="Our dynamic safeguards are approved by a leading cybersecurity firm." %}
 {% include icon-bullet.html heading="our pledge" icon="fa fa-heart-o"
 text="We will never sell, rent, or share your personal information — ever." %}
 
-
+For additional information, review our [Security Supplement](https://plynty.com/security-supplement.html).
