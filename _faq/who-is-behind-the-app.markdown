@@ -1,7 +1,7 @@
 ---
 title: Who is behind the app?
 date: 2017-03-14 15:00:00 Z
-position: 4
+position: 5
 ---
 
 *plynty* is a product of AEM Corporation, a global provider of diversified services to government agencies and commercial businesses.  The *plynty* app is a collaboration of AEM's Information Technology unit (Vizuri, LLC) and its financial advice unit (Compendium Finance, LLC).

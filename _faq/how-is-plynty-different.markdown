@@ -1,7 +1,7 @@
 ---
 title: How is plynty different?
 date: 2017-03-14 15:00:00 Z
-position: 7
+position: 2
 ---
 
 Today’s retirement calculators aren’t helpful. They calculate an impossible financial goal, usually with no help or hope to reach it. They are too simple and yet still somehow too hard to understand. Most important, it’s impossible to know what your income will be in retirement or the choices you should make along the way to make sure you meet your goals.
