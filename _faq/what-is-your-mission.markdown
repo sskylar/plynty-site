@@ -1,6 +1,7 @@
 ---
 title: What is your mission?
 date: 2017-03-14 14:58:00 Z
+position: 0
 ---
 
 Our mission is simple and clear: to help everyone retire better.  
