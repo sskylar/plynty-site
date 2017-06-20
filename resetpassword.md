@@ -36,12 +36,13 @@ layout: resetpassword
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="password" id="password" pattern="^(?=.*[A-Z])(?=.*[0-9])(?=.*[a-z]).{8,30}$">
         <label class="mdl-textfield__label" for="password">enter new password</label>
+        <label class="form-error" id="password_error"></label>
       </div>
       <br/>
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
         <input class="mdl-textfield__input" type="password" id="password_confirm" pattern="^(?=.*[A-Z])(?=.*[0-9])(?=.*[a-z]).{8,30}$">
         <label class="mdl-textfield__label" for="password_confirm">confirm new Password</label>
-        <label class="form-error" id="password_error"></label>
+        <label class="form-error" id="confirm_password_error"></label>
       </div>
       <br/>
       <br/>
