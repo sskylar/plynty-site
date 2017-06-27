@@ -51,7 +51,7 @@ layout: resetpassword
       </button>
     </form>
     <div id="success" class="box">
-      <h1>Your Password Has Been Reset.</h1>
+      <h1 id="success_h1">Your Password Has Been Reset.</h1>
       <p>You may use your new password to log into plynty.</p>
     </div>
   </div>
