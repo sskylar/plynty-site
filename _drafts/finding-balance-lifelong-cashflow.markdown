@@ -1,6 +1,13 @@
 ---
 title: 'finding balance: lifelong cashflow'
 date: 2017-06-08 02:11:00 Z
+categories:
+- plynty
+tags:
+- plynty
+asset: "/uploads/lifelong%20cashflow.jpg"
+image: "/uploads/lifelong%20cashflow.jpg"
+author: Mathew Morgan
 ---
 
 You intuitively understand the basics of cashflow and how it works in your daily life. Wouldn’t it be nice if you could apply this to financial planning for your future? Well, we know you can do this: we call it *lifelong cashflow*.
