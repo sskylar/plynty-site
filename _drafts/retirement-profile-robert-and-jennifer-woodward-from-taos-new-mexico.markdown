@@ -1,6 +1,6 @@
 ---
 title: 'retirement profile: Robert and Jennifer Woodward from Taos, New Mexico'
-date: 2017-07-13 02:00:00 Z
+date: 2017-06-01 02:00:00 Z
 image: "/uploads/P1070604Edited2-d558a9.jpg"
 author: Mathew Morgan
 ---
