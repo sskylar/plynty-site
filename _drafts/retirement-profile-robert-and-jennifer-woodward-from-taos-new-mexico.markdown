@@ -1,13 +1,9 @@
 ---
 title: 'retirement profile: Robert and Jennifer Woodward from Taos, New Mexico'
 date: 2017-06-01 02:00:00 Z
-categories:
-- plynty
-tags:
-- plynty
-asset: "/uploads/P1070604Edited2-d558a9.jpg"
-image: "/uploads/P1070604Edited2-d558a9.jpg"
-author: Mathew Morgan
+asset: "/uploads/P1070604Edited2.jpg"
+image: "/uploads/P1070604wide.jpg"
+author: plynty
 ---
 
 “There has been a lot of moving around, in my career,” says Robert Woodward, 64. “It was not a traditional path.”
