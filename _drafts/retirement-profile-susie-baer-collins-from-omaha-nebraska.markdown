@@ -22,18 +22,18 @@ So Susie made a $50 investment with this friend’s fledgling advisory career—
 
 “There was a mindset, and it was said out loud,” Susie says. “‘Your husband makes ‘x’ amount of money, so you don’t need that much.’ And there was really nothing at the Playhouse, when we started there. No 401k or insurance, and no real way to plan.”
 
-A maturing perspective, and the start of retirement
-The importance of these sorts of assets, and of the long-term thinking they inspire, wouldn’t enter Susie’s life in full until her marriage, in 1998, to Dennis Collins, an estate attorney. 
+**A maturing perspective, and the start of retirement
+**The importance of these sorts of assets, and of the long-term thinking they inspire, wouldn’t enter Susie’s life in full until her marriage, in 1998, to Dennis Collins, an estate attorney.
 
 “Dennis would tell you he does ‘dead people stuff,’” Susie jokes. “What happens to your assets when you go? What happens to your farm? What do you want your kids to have when you’re gone? Important questions.”
 
-These questions helped her think through her own financial plan. Now two years into her retirement from the Omaha Community Playhouse (where she rose to become Associate Artistic Director), Susie has benefited from a more nuanced way of looking at her resources. 
+These questions helped her think through her own financial plan. Now two years into her retirement from the Omaha Community Playhouse (where she rose to become Associate Artistic Director), Susie has benefited from a more nuanced way of looking at her resources.
 
 “I invest the money I made at the Playhouse, and I handle a small investment through a couple of mutual funds,” Susie says. “Now, every six months, I get a call asking if I want to speak with my financial advisor. Like Blanche DuBois, I still depend on the kindness of strangers.”
 
 Susie has also used retirement to tackle other important goals. In December of 2016, she finally finished a long-delayed bachelor’s degree.
 
-“I’ve really enjoyed going back to school,” Susie says. “I phoned so much in [the first time]. But now I’m loving all the subjects I used to just endure. Money and numbers still make me want to crawl under the couch, sometimes, but to get this General Studies degree, I had to pass pre-algebra and then a college algebra class. I got an A+ in both. That’s the person I’ve become now.”
+“I’ve really enjoyed going back to school,” Susie says. “I phoned so much in \[the first time\]. But now I’m loving all the subjects I used to just endure. Money and numbers still make me want to crawl under the couch, sometimes, but to get this General Studies degree, I had to pass pre-algebra and then a college algebra class. I got an A\+ in both. That’s the person I’ve become now.”
 
 Whether squaring off against algebra textbooks or engaging with financial literacy, Susie says her advice remains the same: “Fess up to the things you don’t know. Don’t let fear stop you just because you don’t think you’ll gain any ground.”
 
