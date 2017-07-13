@@ -1,5 +1,5 @@
 ---
-title: retirement profile | Susie Baer-Collins from Omaha, Nebraska
+title: 'retirement profile: Susie Baer-Collins from Omaha, Nebraska'
 date: 2017-06-22 21:57:00 Z
 asset: "/uploads/Susie.jpg"
 author: plynty
