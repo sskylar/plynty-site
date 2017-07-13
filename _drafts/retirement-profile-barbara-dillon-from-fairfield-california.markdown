@@ -1,6 +1,9 @@
 ---
 title: 'retirement profile: Barbara Dillon from Fairfield, California'
-date: 2017-07-13 22:33:00 Z
+date: 2017-07-10 22:33:00 Z
+asset: "/uploads/tim-arterbury-126157.jpg"
+image: "/uploads/tim-arterbury-126157%20wide.jpg"
+author: plynty
 ---
 
 *Barbara shares: “I know it’s hard for people in their 20s and 30s to think about retirement, but if you do have an employer with retirement programs, take the time to learn about how they could benefit you in the future.”*
