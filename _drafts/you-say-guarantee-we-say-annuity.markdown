@@ -1,6 +1,9 @@
 ---
 title: you say guarantee, we say annuity
 date: 2017-07-13 22:09:00 Z
+asset: "/uploads/shutterstock_530300704.jpg"
+image: "/uploads/shutterstock_530300704%20wide.jpg"
+author: plynty
 ---
 
 When thinking about retirement, running out of money is one of the top concerns for most people. You can run out of money because you spend too much, too soon. Or you can live “too long” — or at least longer than planned. So, is there any way to possibly guarantee that you’ll have enough money to last throughout your retirement?
