@@ -6,13 +6,13 @@ image: "/uploads/samuel-fyfe-233543%20wide.jpg"
 author: plynty
 ---
 
-Well, it is a decision you need to factor into your retirement plan, but it is not as dramatic as you might think.
+When to buy an annuity is an important decision you need to factor into your retirement plan, but it is not as dramatic as you might think.
 
 A Single Premium Immediate Annuity (SPIA) is a type of insurance designed to provide you with a predictable monthly income for as long as you live. (Social Security is one type of annuity.) And, like any insurance policy, you need to decide when is a good time to buy one. plynty can help you through the decision-making process.
 
 We think annuities become a more powerful financial planning tool as you age:
 
-**Under age 60:** You simply need to be aware of SPIAs as a possible future addition to your retirement plan. (We welcome you to stick around if you’d like to gain some advance knowledge. Otherwise, if you’re in this group and hear a latte calling your name, we understand. Catch you next week!)
+**Under age 60:** You simply need to be aware of SPIAs as a possible future addition to your retirement plan. (We welcome you to stick around if you’d like to gain some advance knowledge. Otherwise, if you’re in this group and hear a latte calling your name, we understand. Catch you later!)
 
 **Your 60s:** During these years, social security payments usually kick in. You’re now gaining real-life experience with how well your retirement plan is working for you. Take an honest look at your plan and decide how much confidence you have. The average person will require more than their social security income to cover their basic expenses, and thus may benefit from another source of reliable income. Fine-tuning your plan is a natural part of your lifelong cashflow perspective.
 
