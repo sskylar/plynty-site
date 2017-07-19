@@ -9,7 +9,7 @@ author: plynty
 
 MJ Wurdeman, 68, noticed the tremors in her hands long before her doctors did. “They kept saying, ‘Eh, don’t worry about it,’” MJ remembers. “They said, ‘You’re fine. You have other things to worry about now.’” 
 
-Although she recognized herself as being symptomatic in 2005, it would be another seven years before MJ was diagnosed with Parkinson’s Disease, a gradual degenerative disorder of the central nervous system. The condition, paired with ongoing back pain, hastened her retirement from years of work in social service outreach at Lutheran Church Missouri Synod.
+Although she recognized herself as being symptomatic in 2005, it would be another seven years before MJ was diagnosed with Parkinson’s disease, a gradual degenerative disorder of the central nervous system. The condition, paired with ongoing back pain, hastened her retirement from years of work in social service outreach at Lutheran Church Missouri Synod.
 
 “I was doing a lot of workshops," MJ says. “And by the time I would set up, I would be in so much pain, it would be hard for me to actually deliver the workshops. That [responsibility] was a big part of the position I had, so I realized, ‘I just can’t do this anymore.’”
 
