@@ -33,7 +33,7 @@ Today, in joint retirement, the Wurdemans live in a picturesque golf community w
 
 “A recent special blessing from [my husband] was that he bought a pontoon boat, a little less than a year ago. It’s easier for me to get in and out of than a bass boat, and he knew I could use a pontoon boat for much longer, to go fishing or out for a ride or whatever.”
 
-So far, these small and steady adjustments, and a shared ability to plan for the unforeseen, have informed the Wurdemans’ ability to stay a step ahead of Parkinson’s Disease.
+So far, these small and steady adjustments, and a shared ability to plan for the unforeseen, have informed the Wurdemans’ ability to stay a step ahead of Parkinson’s disease.
 
 “I’m not a Pollyanna, or something like that,” MJ insists, “but I do think you deal with what you’ve got in front of you, and that you should be smart about planning for the future. Because, really, how much of the future can you know?”
 
