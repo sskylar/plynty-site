@@ -12,7 +12,7 @@ A Single Premium Immediate Annuity (SPIA) is a type of insurance designed to pro
 
 We think annuities become a more powerful financial planning tool as you age:
 
-**Under age 60:** You simply need to be aware of SPIAs as a possible future addition to your retirement plan. (We welcome you to stick around if you’d like to gain some advance knowledge. Otherwise, if you’re in this group and hear a latte calling your name, we understand. Catch you later!)
+**Under age 60:** You simply need to be aware of SPIAs as a possible future addition to your retirement plan. (We welcome you to stick around if you’d like to gain some advance knowledge. Otherwise, if you’re in this group and hear a latte calling your name, we understand.)
 
 **Your 60s:** During these years, social security payments usually kick in. You’re now gaining real-life experience with how well your retirement plan is working for you. Take an honest look at your plan and decide how much confidence you have. The average person will require more than their social security income to cover their basic expenses, and thus may benefit from another source of reliable income. Fine-tuning your plan is a natural part of your lifelong cashflow perspective.
 
