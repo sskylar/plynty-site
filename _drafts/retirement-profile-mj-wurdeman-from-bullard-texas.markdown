@@ -24,7 +24,7 @@ Some of those passions included fishing, reading, and scrapbooking, as well as s
 
 “That 401(k) that I had at [my first job at] United Way, it just sat there. I let it sit there and do its thing,” MJ says. “I thought I had a very small amount, but I ended up having about $25,000, which to me seemed like a huge amount of money. Bruce and I, together, had about $200,000 in various accounts [before retiring].”
 
-Though MJ is quick to acknowledge that, without her husband’s financial nest egg, she’d be in “a world of hurt,” she says a healthy combination of Social Security, pension, and savings has largely enabled the couple to enjoy life as it comes, no matter what Parkinson’s Disease may have in store.
+Though MJ is quick to acknowledge that, without her husband’s financial nest egg, she’d be in “a world of hurt,” she says a healthy combination of Social Security, pension, and savings has largely enabled the couple to enjoy life as it comes, no matter what Parkinson’s disease may have in store.
 
 “Medicare pretty well covers some things,” MJ says, “and I don’t do much [medically] except go to the neurologist a lot. But where I’m really seeing the strain is in the drug costs getting higher and higher. I’m on about twelve medications. We can handle it now, but if it keeps with that kind of volume, I don’t know.”
 
