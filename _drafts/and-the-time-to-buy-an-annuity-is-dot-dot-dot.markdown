@@ -6,8 +6,6 @@ image: "/uploads/samuel-fyfe-233543%20wide.jpg"
 author: plynty
 ---
 
-What, you were expecting a drumroll?
-
 Well, it is a decision you need to factor into your retirement plan, but it is not as dramatic as you might think.
 
 A Single Premium Immediate Annuity (SPIA) is a type of insurance designed to provide you with a predictable monthly income for as long as you live. (Social Security is one type of annuity.) And, like any insurance policy, you need to decide when is a good time to buy one. plynty can help you through the decision-making process.
