@@ -14,7 +14,7 @@ Not to be a Debbie Downer here, but reality is... reality. You need to look at a
 
 **There is one financial product under which your income will continue no matter how long you live — an annuity.** Now, it may sound complicated - it's not! Annuities can actually be a pretty straightforward part of your retirement plan.
  
-What is an annuity? One definition: a fixed sum of money paid to someone each year, usually for the rest of their life. Another definition that better fits a financial plan: a form of investment entitling the investor to a series of annual sums. Basically, you pay money to an insurance company (for example, $50,000) in exchange for a guaranteed and stable monthly income (such as $1,000) for as long as you live. In essence, another type of insurance policy.
+What is an annuity? One definition: a fixed sum of money paid to someone each year, usually for the rest of their life. Another definition that better fits a financial plan: a form of investment entitling the investor to a series of annual sums. Basically, you pay money to an insurance company (for example, $50,000) in exchange for a guaranteed and stable monthly income (such as $1,000 a month) for as long as you live. In essence, another type of insurance policy.
 
 As a matter of fact, most likely you already have an annuity: Social Security is an annuity backed by the federal government. You pay into Social Security throughout your career and, once you retire, collect your portion under the rules set by the federal government. Even after you’re gone, your spouse can continue to collect some portion of payments, even if s/he has never worked outside the home. So you can use these numbers as your baseline for planning a reliable retirement income.
 
