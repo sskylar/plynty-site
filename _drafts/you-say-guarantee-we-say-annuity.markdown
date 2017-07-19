@@ -12,7 +12,7 @@ Social Security benefits are (mostly) guaranteed to be around for the future, an
 
 Not to be a Debbie Downer here, but reality is... reality. You need to look at alternatives, preferably another source of reliable income - just in case. 
 
-**There is one financial product under which your income will continue no matter how long you live — an annuity.** Now, it may sound complicated - it's not! Annuities can actually be a pretty straight-forward part of your retirement plan.
+**There is one financial product under which your income will continue no matter how long you live — an annuity.** Now, it may sound complicated - it's not! Annuities can actually be a pretty straightforward part of your retirement plan.
  
 What is an annuity? One definition: a fixed sum of money paid to someone each year, usually for the rest of their life. For example, Aunt Jane leaves you an inheritance of $10,000 a year in her will — hurray for generous relatives! Another definition that better fits a financial plan: a form of investment entitling the investor to a series of annual sums. Basically, you pay money to an insurance company in exchange for a guaranteed and stable monthly income. In essence, another type of insurance policy.
 
