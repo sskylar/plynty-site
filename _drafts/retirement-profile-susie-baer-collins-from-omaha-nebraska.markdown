@@ -20,7 +20,7 @@ Susie herself was restless. In 1972, she dropped out of college, with only a yea
 
 So Susie made a $50 investment with this friend’s fledgling advisory career—and then began thinking, for the first time, about the notion of her own retirement. In 1987, she was hired by the Omaha Community Playhouse (now the largest community theater in the country) as an acting instructor and on-stage performer. While there, working alongside her husband, Carl, Susie earned a salary of just $13,000.
 
-“There was a mindset, and it was said out loud,” Susie says. “‘Your husband makes ‘x’ amount of money, so you don’t need that much.’ And there was really nothing at the Playhouse, when we started there. No 401k or insurance, and no real way to plan.”
+“There was a mindset, and it was said out loud,” Susie says. “‘Your husband makes ‘x’ amount of money, so you don’t need that much.’ And there was really nothing at the Playhouse, when we started there. No 401(k) or insurance, and no real way to plan.”
 
 **A maturing perspective, and the start of retirement
 **The importance of these sorts of assets, and of the long-term thinking they inspire, wouldn’t enter Susie’s life in full until her marriage, in 1998, to Dennis Collins, an estate attorney.
@@ -42,4 +42,4 @@ Americans aren’t doing enough for retirement planning. Here’s one startling 
 
 We created plynty to help. Our first-of-its-kind app offers easy and powerful retirement planning tools to help people with any financial background. We also offer fun and informative advice to help along the way.
 
-We hope that these blog stories help our users to acknowledge and address common challenges of retirement. Thanks to our brave volunteers for sharing their stories! We’d love to feature your perspective, too. Email us to share your story, and your advice, with people at different stages of the retirement planning process.
+We hope that these blog stories help our users to acknowledge and address common challenges of retirement. Thanks to our brave volunteers for sharing their stories! We’d love to feature your perspective, too. Email us to share your story, and your advice, with people at different stages of the retirement planning process at hello@plynty.com.
