@@ -1,8 +1,8 @@
 ---
 title: 'finding balance: lifelong cashflow'
 date: 2017-06-08 02:11:00 Z
-asset: "/uploads/lifelong%20cashflow%202%20small.jpg"
-image: "/uploads/lifelong%20cashflow%202%20wide.jpg"
+asset: "/uploads/6-findingbalancelifelongcashflow-article.png"
+image: "/uploads/6-findingbalancelifelongcashflow-preview.jpg"
 author: plynty
 ---
 
