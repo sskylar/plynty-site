@@ -36,17 +36,18 @@ Here is a short list of common income sources to use as your starting point:
 * Salary (e.g., full-time or part-time retirement job)
 * Other (e.g., rental, small business profits, alimony)
 
-2. **Prep a list of your planned retirement expenses.**
-Make a list of your planned retirement expenses. If you are considering housing expenses, think about whether you plan to pay off your mortgage by retirement, or if you will live in your current home in retirement. We’ve created a short list of common retirement expenses to use as your starting point: 
+**2. Prepare a list of your planned retirement expenses.**
+Make a list of your planned retirement expenses. When considering housing expenses, ask yourself: do you plan to pay off your mortgage by retirement; live in your current home or relocate in retirement?
+Here is a short list of common retirement expenses to use as your starting point: 
 * Housing expenses (e.g., mortgage/rent, property taxes, insurance, HOA fees, home maintenance/repair, home warranty)
 * Essential living expenses (e.g., food, clothing, and utilities)
 * Non-essential living expenses (e.g., entertainment, dining out, hobbies, subscriptions, gifts)
 * Healthcare 
 * Travel
 
-3. **Use plynty to combine your ingredients.**
-Slowly add in your income sources and expenses one at a time into the app and allow it to calculate your projected cashflow in retirement. Consider adding in optional ingredients such as annuities and whole-life insurance to protect yourself against the risk of outliving your savings and to protect your loved ones. It is important to maintain flexibility and make changes to your plan as life circumstances change (such as starting a new job with a new 401(k)). 
+**3. Use plynty to combine your ingredients.**
+Slowly add your income sources and expenses into plynty and watch it calculate your projected cashflow in retirement. Consider adding in optional ingredients such as annuities and whole-life insurance to protect yourself against the risk of outliving your savings and to protect your loved ones. It is important to maintain flexibility and make changes to your plan as life circumstances change (such as starting a new job with a new 401(k)). 
 
-Plynty will hum along in the background to help keep you on track. Checking in every couple of weeks or so will ensure that the ingredients you’ve chosen for your plan are still the best fit for you. Plynty allows you to stay focused on the present while never losing sight of your future. Bon appétit!
+plynty will hum along in the background to help keep you on track. We recommend checking in every 1-2 months to ensure that the ingredients you’ve chosen for your plan are still the best fit for you. plynty allows you to stay focused on the present while never losing sight of your future. Bon appétit!
 
 If you completed the recipe above, you deserve a treat! Here’s a recipe for several [quick 3-minute mug cakes](https://www.buzzfeed.com/vaughnvreeland/3-minute-mug-cakes-4-ways?utm_term=.sv7Zp9NJyO#.mtZPojOzYL).
