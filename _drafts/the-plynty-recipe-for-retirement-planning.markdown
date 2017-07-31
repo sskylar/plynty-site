@@ -6,9 +6,9 @@ image: "/uploads/7-theplyntyrecipeforretirementplanning-preview.png"
 author: plynty
 ---
 
-Creating a retirement plan is like trying out a new recipe –  with proper ingredient preparation and by following the directions, there’s a good chance you’ll create something that will make you proud. Of course, once you started cooking and gain some confidence and experience, you often discover modifications that make a recipe a better fit for you.
+Creating a retirement plan is like trying a new recipe –  with proper ingredient preparation and by following the directions, there’s a good chance you’ll create something that will make you proud. Of course, once you start cooking and gain confidence and experience, you often discover modifications that make a recipe a better fit for you.
 
-The plynty planning app allows you to create variations of a straightforward financial recipe that may have been passed down for generations in your family: start with income, add in savings, and decide what optional “ingredients” (life insurance, annuities, etc.) to add to suit your own tastes — without giving you heartburn as a result. The recipe below has a longer preparation time for the ingredients, but once they are prepped, the final product takes less time to come together.
+The plynty planning app allows you to create variations of a straightforward financial recipe that may have been passed down for generations in your family: start with income, add savings, then decide what optional “ingredients” (annuities, etc.) might suit your own tastes — without giving you heartburn. The recipe below has a longer preparation time for the ingredients, but once they are prepped, the final product takes less time to come together.
 
 Makes: 1-2 retirement plans
 Prep: 30 mins
@@ -27,10 +27,10 @@ INGREDIENTS
 
 DIRECTIONS
 
-1. **Prep a list of your planned retirement income sources.** 
-Make a list of your planned retirement income sources. If you have an online account, have your log in information ready at hand. If you contribute to a 401(k), make sure you know how much you and your employer currently contribute. If you have investment accounts, check for any advisor fees.
-We’ve created a short list of common income sources to use as your starting point:
-* Withdrawals from savings (e.g., cash, 401(k), IRA, investment accounts, HSA)
+**1. Prepare a list of your retirement income sources.** 
+Make a list of your planned retirement income sources. If you have an online account, have your login information at hand. If you contribute to a 401(k), make sure you know how much both you and your employer currently contribute. If you have investment accounts, check for any advisor fees.
+Here is a short list of common income sources to use as your starting point:
+* Retirement savings (e.g., cash, 401(k), IRA, investment accounts, HSA)
 * Government-sponsored benefits (e.g., Social Security payments)
 * Employer-sponsored benefits (e.g., pensions)
 * Salary (e.g., full-time or part-time retirement job)
