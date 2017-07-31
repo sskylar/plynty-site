@@ -1,8 +1,8 @@
 ---
 title: simple, stable - yes, that’s a SPIA
 date: 2017-07-06 22:27:00 Z
-asset: "/uploads/fabian-blank-78637.jpg"
-image: "/uploads/fabian-blank-78637%20wide.jpg"
+asset: "/uploads/11-simplestableyesthatsSPIA-preview.jpg"
+image: "/uploads/11-simplestableyesthatsSPIA-article.png"
 author: plynty
 ---
 
