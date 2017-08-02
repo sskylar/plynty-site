@@ -6,7 +6,7 @@ image: "/uploads/13-andthetimetobuyanannuityis-preview.jpg"
 author: plynty
 ---
 
-When to buy an annuity is an important decision you need to factor into your retirement plan, but it is not as dramatic as you might think.
+When to buy an annuity is an important decision you need to factor into your retirement plan, but it is not as dramatic as you might think. <!--more-->
 
 A Single Premium Immediate Annuity (SPIA) is a type of insurance designed to provide you with a predictable monthly income for as long as you live. (Social Security is one type of annuity.) And, like any insurance policy, you need to decide when is a good time to buy one. plynty can help you through the decision-making process.
 
