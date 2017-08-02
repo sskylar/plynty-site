@@ -6,7 +6,7 @@ image: "/uploads/6-findingbalancelifelongcashflow-preview.jpg"
 author: plynty
 ---
 
-You intuitively understand the basics of cashflow and how it works in your daily life. Wouldn’t it be nice if you could apply this to financial planning for your future? Well, you actually can, and we call it *lifelong cashflow*.
+You intuitively understand the basics of cashflow and how it works in your daily life. Wouldn’t it be nice if you could apply this to financial planning for your future? Well, you actually can, and we call it *lifelong cashflow*. <!--more-->
 
 For most of us, the traditional way of retirement planning just doesn’t apply. In the past, with a pension and social security, people knew how much money would be coming in every month. So your monthly budget could keep chugging along, taking into account whatever your new “salary” would be once you retired.
 
