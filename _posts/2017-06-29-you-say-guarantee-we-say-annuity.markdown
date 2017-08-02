@@ -7,6 +7,7 @@ author: plynty
 ---
 
 When thinking about retirement, running out of money is one of the top concerns for most people. You can run out of money because you spend too much, too soon. Or you can live “too long” — or at least longer than planned. So, is there any way to possibly guarantee that you’ll have enough money to last throughout your retirement?
+<!--more-->
 
 Social Security benefits are (mostly) guaranteed to be around for the future, and that the majority of people see it as their main source of income. But the average benefit is just over $16K a year (that's around $1,333 a month). Take a look at your current expenses: will you be able to get by on that amount in the future? For possibly 20 or 30 years?
 
