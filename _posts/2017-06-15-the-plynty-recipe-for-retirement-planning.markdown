@@ -46,7 +46,7 @@ Here is a short list of common retirement expenses to use as your starting point
 * Travel
 
 **3. Use plynty to combine your ingredients.**
-Slowly add your income sources and expenses into plynty and watch it calculate your projected cashflow in retirement. Consider adding in optional ingredients such as annuities and whole-life insurance to protect yourself against the risk of outliving your savings and to protect your loved ones. It is important to maintain flexibility and make changes to your plan as life circumstances change (such as starting a new job with a new 401(k)). 
+Slowly add your income sources and expenses into plynty and watch it calculate your projected cashflow in retirement. Consider adding in optional ingredients such as an annuity or a reverse mortgage to protect yourself against the risk of outliving your savings or bring in additional income in retirement. It is important to maintain flexibility and make changes to your plan as life circumstances change (such as starting a new job with a new 401(k)). 
 
 plynty will hum along in the background to help keep you on track. We recommend checking in every 1-2 months to ensure that the ingredients you’ve chosen for your plan are still the best fit for you. plynty allows you to stay focused on the present while never losing sight of your future. Bon appétit!
 
