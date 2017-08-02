@@ -6,7 +6,7 @@ image: "/uploads/P1070604wide.jpg"
 author: plynty
 ---
 
-“There has been a lot of moving around, in my career,” says Robert Woodward, 64. “It was not a traditional path.”
+“There has been a lot of moving around, in my career,” says Robert Woodward, 64. “It was not a traditional path.” <!--more-->
 
 That path began, steadily enough, with a bachelor’s degree in geology from the University of Arizona and a summer job at ARCO International Oil & Gas. There, Robert sharpened his skills in mapping and exploration, which helped propel him into graduate work in geology at the University of Southern California in the late 1970s.
 
