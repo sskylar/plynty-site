@@ -6,7 +6,7 @@ image: "/uploads/tim-arterbury-126157%20wide.jpg"
 author: plynty
 ---
 
-*Barbara shares: “I know it’s hard for people in their 20s and 30s to think about retirement, but if you do have an employer with retirement programs, take the time to learn about how they could benefit you in the future.”*
+*Barbara shares: “I know it’s hard for people in their 20s and 30s to think about retirement, but if you do have an employer with retirement programs, take the time to learn about how they could benefit you in the future.”* <!--more-->
 
 Barbara Dillon, 69, didn’t start thinking about her own retirement until her mid-40s.
 
