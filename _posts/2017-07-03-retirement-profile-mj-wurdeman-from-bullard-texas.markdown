@@ -5,7 +5,7 @@ asset: "/uploads/MJ.jpg"
 author: plynty
 ---
 
-*MJ discusses the importance of planning: “I do think you deal with what you’ve got in front of you, and that you should be smart about planning for the future. Because, really, how much of the future can you know?”*
+*MJ discusses the importance of planning: “I do think you deal with what you’ve got in front of you, and that you should be smart about planning for the future. Because, really, how much of the future can you know?”* <!--more-->
 
 MJ Wurdeman, 68, noticed the tremors in her hands long before her doctors did. “They kept saying, ‘Eh, don’t worry about it,’” MJ remembers. “They said, ‘You’re fine. You have other things to worry about now.’” 
 
