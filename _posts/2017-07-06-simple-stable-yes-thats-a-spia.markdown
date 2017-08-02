@@ -6,7 +6,7 @@ image: "/uploads/11-simplestableyesthatsSPIA-article.png"
 author: plynty
 ---
 
-In an era where people are saving less and living longer, more and more financial experts are recognizing the need to supplement Social Security with an additional amount of predictable income. The ultimate goal? To ensure that your basic monthly expenses will be covered — no matter how long you live and no matter what happens with the rest of your investments. We believe a Single Premium Immediate Annuity (SPIA) is an excellent way to meet that goal.
+In an era where people are saving less and living longer, more and more financial experts are recognizing the need to supplement Social Security with an additional amount of predictable income. The ultimate goal? <!--more--> To ensure that your basic monthly expenses will be covered — no matter how long you live and no matter what happens with the rest of your investments. We believe a Single Premium Immediate Annuity (SPIA) is an excellent way to meet that goal.
 
 Wait a minute, you might say. I’ve been warned to stay away from annuities because [insert bad things here]. And it is true that there are numerous articles that completely dismiss annuities as a viable choice. But there are many kinds of annuities. 
 
