@@ -6,6 +6,7 @@ author: plynty
 ---
 
 *Susie advises: “Fess up to the things you don’t know. Don’t let fear stop you just because you don’t think you’ll gain any ground.”*
+ <!--more-->
 
 “Anytime I hear the word ‘money,’ I get nervous,” confides Susie Baer-Collins, 65. “I was always, for the longest time, going from paycheck to paycheck and trying to pay off credit debt. I’m not an example of smart financial thinking.”
 
