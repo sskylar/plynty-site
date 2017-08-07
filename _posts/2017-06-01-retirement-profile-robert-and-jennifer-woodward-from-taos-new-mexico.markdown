@@ -16,8 +16,6 @@ All of that exploration made Robert and his wife, Jennifer, 62, uniquely adaptab
 
 “We didn’t think a lot about retirement, then,” Jennifer admits, “but we got more serious \[about it\] as time went on.”
 
-![P1070604Edited2.jpg](/uploads/P1070604Edited2.jpg)
-
 In the midst of their globe-trotting, Robert wisely took advantage of a 401(k) program that had been established at ARCO only a year after he had joined the company.
 
 “It was a pretty good deal,” Robert remembers, “and very generous. We were broke at the time, and we were paying off credit card debt. But my \[ARCO\] supervisor basically told me, ‘You’re an idiot. You need to take advantage of this.’”
