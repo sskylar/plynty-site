@@ -2,6 +2,7 @@
 title: 'retirement profile: Susie Baer-Collins from Omaha, Nebraska'
 date: 2017-06-22 21:57:00 Z
 asset: "/uploads/Susie.jpg"
+image: "/uploads/8-Susie-article.jpg.png"
 author: plynty
 ---
 
@@ -11,8 +12,6 @@ author: plynty
 “Anytime I hear the word ‘money,’ I get nervous,” confides Susie Baer-Collins, 65. “I was always, for the longest time, going from paycheck to paycheck and trying to pay off credit debt. I’m not an example of smart financial thinking.”
 
 The daughter of a military physician, Susie admits her childhood, at least, was spent with some measure of fiscal security. “We weren’t wealthy,” she remembers, “but we did okay. My dad always worked for government hospitals, so it was a different kind of life, and there was a lot of moving around.”
-
-![Susie.jpg](/uploads/Susie.jpg)
 
 **Beginning to think about retirement**
 Susie herself was restless. In 1972, she dropped out of college, with only a year unfinished, to pursue the life of an actress. That meant dinner theatres and summer productions and travel — but it wouldn’t lend itself to the development of financial literacy. By the early 80s, Susie was a first-time mom, married to a fellow actor, and still uncertain about her economic future.
