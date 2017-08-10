@@ -49,4 +49,4 @@ Americans aren’t doing enough for retirement planning. Here’s one startling 
 
 We created plynty to help. Our first-of-its-kind app offers easy and powerful retirement planning tools to help people with any financial background. We also offer fun and informative advice to help along the way.
 
-We hope that these blog stories help our users to acknowledge and address common challenges of retirement. Thanks to our brave volunteers for sharing their stories! We’d love to feature your perspective, too. Email us to share your story, and your advice, with people at different stages of the retirement planning process at hello@plynty.com.
+We hope that these blog stories help our users to acknowledge and address common challenges of retirement. Thanks to our brave volunteers for sharing their stories! We’d love to feature your perspective, too. Email us to share your story, and your advice, with people at different stages of the retirement planning process at *[hello@plynty.com](mailto:hello@plynty.com)*.
