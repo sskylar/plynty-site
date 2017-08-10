@@ -1,6 +1,8 @@
 ---
 title: 'retirement profile: Susie Baer-Collins from Omaha, Nebraska'
 date: 2017-06-22 21:57:00 Z
+tags:
+- retirement profile
 asset: "/uploads/Susie.jpg"
 image: "/uploads/8-Susie-article.jpg.png"
 author: plynty
@@ -37,9 +39,9 @@ Susie has also used retirement to tackle other important goals. In December of 2
 
 Whether squaring off against algebra textbooks or engaging with financial literacy, Susie says her advice remains the same: “Fess up to the things you don’t know. Don’t let fear stop you just because you don’t think you’ll gain any ground.”
 
-**About plynty**
+*[About plynty](https://plynty.com/)*
 Americans aren’t doing enough for retirement planning. Here’s one startling fact: the median retirement savings across all working-age families in the United States is just $5,000.
 
 We created plynty to help. Our first-of-its-kind app offers easy and powerful retirement planning tools to help people with any financial background. We also offer fun and informative advice to help along the way.
 
-We hope that these blog stories help our users to acknowledge and address common challenges of retirement. Thanks to our brave volunteers for sharing their stories! We’d love to feature your perspective, too. Email us to share your story, and your advice, with people at different stages of the retirement planning process at hello@plynty.com.
+We hope that these blog stories help our users to acknowledge and address common challenges of retirement. Thanks to our brave volunteers for sharing their stories! We’d love to feature your perspective, too. Email us to share your story, and your advice, with people at different stages of the retirement planning process at *[hello@plynty.com](mailto:hello@plynty.com)*.
