@@ -1,5 +1,6 @@
 ---
-title: 'retirement profile: Robert and Jennifer Woodward from Taos, New Mexico'
+title: how a globetrotting couple took advantage of their 401(k) and Apple stock to
+  secure a comfy retirement
 date: 2017-06-01 02:00:00 Z
 tags:
 - retirement profile
