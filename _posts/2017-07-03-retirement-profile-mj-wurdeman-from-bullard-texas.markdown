@@ -1,6 +1,8 @@
 ---
 title: 'retirement profile: MJ Wurdeman from Bullard, Texas'
 date: 2017-07-03 22:17:00 Z
+tags:
+- retirement profile
 asset: "/uploads/10-MJ.jpg"
 image: "/uploads/10-MJ-article.jpg.png"
 author: plynty
