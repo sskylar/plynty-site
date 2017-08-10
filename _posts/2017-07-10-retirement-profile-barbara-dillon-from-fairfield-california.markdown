@@ -1,5 +1,5 @@
 ---
-title: 'retirement profile: Barbara Dillon from Fairfield, California'
+title: retirement tips from a professional in HR
 date: 2017-07-10 22:33:00 Z
 tags:
 - retirement profile
