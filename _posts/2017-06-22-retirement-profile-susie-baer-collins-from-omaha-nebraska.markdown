@@ -1,5 +1,5 @@
 ---
-title: 'retirement profile: Susie Baer-Collins from Omaha, Nebraska'
+title: how smart planning helped a woman stay one step ahead of her Parkinson’s disease
 date: 2017-06-22 21:57:00 Z
 tags:
 - retirement profile
