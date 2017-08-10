@@ -36,9 +36,9 @@ So far, these small and steady adjustments, and a shared ability to plan for the
 
 “I’m not a Pollyanna, or something like that,” MJ insists, “but I do think you deal with what you’ve got in front of you, and that you should be smart about planning for the future. Because, really, how much of the future can you know?”
 
-**About plynty**
+*[About plynty](https://plynty.com/)*
 Americans aren’t doing enough for retirement planning. Here’s one startling fact: the median retirement savings across all working-age families in the United States is just $5,000.
 
 We created plynty to help. Our first-of-its-kind app offers easy and powerful retirement planning tools to help people with any financial background. We also offer fun and informative advice to help along the way.
 
-We hope that these blog stories help our users to acknowledge and address common challenges of retirement. Thanks to our brave volunteers for sharing their stories! We’d love to feature your perspective, too. Email us to share your story, and your advice, with people at different stages of the retirement planning process at hello@plynty.com.
+We hope that these blog stories help our users to acknowledge and address common challenges of retirement. Thanks to our brave volunteers for sharing their stories! We’d love to feature your perspective, too. Email us to share your story, and your advice, with people at different stages of the retirement planning process at *[hello@plynty.com](mailto:hello@plynty.com)*.
