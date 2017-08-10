@@ -1,5 +1,5 @@
 ---
-title: 'retirement profile: MJ Wurdeman from Bullard, Texas'
+title: how smart planning helped a woman stay one step ahead of her Parkinson’s disease
 date: 2017-07-03 22:17:00 Z
 tags:
 - retirement profile
