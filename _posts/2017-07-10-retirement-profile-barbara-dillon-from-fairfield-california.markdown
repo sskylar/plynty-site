@@ -1,6 +1,8 @@
 ---
 title: 'retirement profile: Barbara Dillon from Fairfield, California'
 date: 2017-07-10 22:33:00 Z
+tags:
+- retirement profile
 asset: "/uploads/tim-arterbury-126157.jpg"
 image: "/uploads/tim-arterbury-126157%20wide.jpg"
 author: plynty
