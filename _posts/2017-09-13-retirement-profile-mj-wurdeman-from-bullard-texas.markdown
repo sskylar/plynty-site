@@ -1,5 +1,6 @@
 ---
-title: how smart planning helped a woman stay one step ahead of her Parkinson’s disease
+title: how smart planning helped one woman stay one step ahead of her Parkinson’s
+  disease
 date: 2017-09-13 12:00:00 Z
 tags:
 - retirement profile
