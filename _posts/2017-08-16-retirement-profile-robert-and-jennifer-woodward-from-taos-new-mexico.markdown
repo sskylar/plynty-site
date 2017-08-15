@@ -1,7 +1,7 @@
 ---
 title: how a globetrotting couple took advantage of their 401(k) and Apple stock to
   secure a comfy retirement
-date: 2017-06-01 02:00:00 Z
+date: 2017-08-16 09:00:00 Z
 tags:
 - retirement profile
 asset: "/uploads/P1070604Edited2.jpg"
