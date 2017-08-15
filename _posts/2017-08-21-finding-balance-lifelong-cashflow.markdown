@@ -1,6 +1,6 @@
 ---
 title: 'finding balance: lifelong cashflow'
-date: 2017-08-21 02:11:00 Z
+date: 2017-08-21 08:00:00 Z
 asset: "/uploads/6-findingbalancelifelongcashflow-preview-1b2c5e.jpg"
 image: "/uploads/6-findingbalancelifelongcashflow-article-8749e9.png"
 author: plynty
