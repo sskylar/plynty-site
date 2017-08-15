@@ -1,6 +1,6 @@
 ---
 title: you say guarantee, we say annuity
-date: 2017-06-29 22:09:00 Z
+date: 2017-09-06 22:09:00 Z
 asset: "/uploads/9%20-%20yousayguaranteewesayannuity-preview.jpg"
 image: "/uploads/9%20-%20yousayguaranteewesayannuity-article.jpg.png"
 author: plynty

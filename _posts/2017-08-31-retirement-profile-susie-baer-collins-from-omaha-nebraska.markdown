@@ -1,6 +1,6 @@
 ---
 title: how an actress overcame her fear of numbers to tackle investing
-date: 2017-06-22 21:57:00 Z
+date: 2017-08-31 21:57:00 Z
 tags:
 - retirement profile
 asset: "/uploads/Susie.jpg"
