@@ -33,7 +33,7 @@ collections:
     title: support articles
     output: true
 defaults:
--
+- scope:
   values:
     image: "https://plynty.com/uploads/plynty_logo_green.png" #default image for sharing
 - scope:
