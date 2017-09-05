@@ -1,8 +1,8 @@
 ---
 title: stop sweating over financial planning
 date: 2016-11-08 18:07:00 Z
-asset: "/uploads/tablet-girl-small.jpg"
-image: "/uploads/tablet%20girl%20blog%20article.jpg"
+image: "/uploads/tablet-girl-small.jpg"
+asset: "/uploads/tablet%20girl%20blog%20article.jpg"
 author: plynty
 ---
 

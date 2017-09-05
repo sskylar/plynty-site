@@ -1,8 +1,8 @@
 ---
 title: we see money differently
 date: 2016-11-08 18:01:00 Z
-asset: "/uploads/blog_preview_phone-small.jpg"
-image: "/uploads/Blog%201%20Article.png"
+image: "/uploads/blog_preview_phone-small.jpg"
+asset: "/uploads/Blog%201%20Article.png"
 author: plynty
 ---
 
