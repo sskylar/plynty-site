@@ -34,9 +34,6 @@ collections:
     output: true
 defaults:
 - scope:
-  values:
-    image: "https://plynty.com/uploads/plynty_logo_green.png" #default image for sharing
-- scope:
     path: ''
     type: sections
   values:
@@ -69,6 +66,7 @@ defaults:
     type: pages
   values:
     layout: page
+    image: "https://plynty.com/uploads/plynty_logo_green.png" #default image for sharing
 email: support@plynty.com
 markdown: kramdown
 sass:
