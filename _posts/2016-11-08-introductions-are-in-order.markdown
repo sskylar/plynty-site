@@ -1,8 +1,8 @@
 ---
 title: introductions are in order
 date: 2016-11-08 18:05:00 Z
-asset: "/uploads/plynty-possy-framed-small.jpg"
-image: "/uploads/blog_preview_line_possy%20small%20height.png"
+image: "/uploads/plynty-possy-framed-small.jpg"
+asset: "/uploads/blog_preview_line_possy%20small%20height.png"
 author: plynty
 ---
 

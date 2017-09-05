@@ -4,8 +4,8 @@ title: how a globetrotting couple took advantage of their 401(k) and Apple stock
 date: 2017-08-16 15:00:00 Z
 tags:
 - retirement profile
-asset: "/uploads/P1070604Edited2.jpg"
-image: "/uploads/P1070604wide.jpg"
+image: "/uploads/P1070604Edited2.jpg"
+asset: "/uploads/P1070604wide.jpg"
 author: plynty
 ---
 

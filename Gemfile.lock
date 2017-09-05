@@ -146,7 +146,8 @@ DEPENDENCIES
   github-pages
   github-pages-health-check (= 1.2.0)
   jekyll (= 3.3.0)
+  jekyll-seo-tag
   jekyll-textile-converter
 
 BUNDLED WITH
-   1.13.1
+   1.13.6

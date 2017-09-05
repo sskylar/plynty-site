@@ -1,10 +1,13 @@
 ---
-title: plynty website
+title: plynty
+description: "simple, convenient, personalized"
 timezone: UTC
 collections:
   posts:
     title: Posts
     output: true
+    description: "Post descriptions"
+    image: "https://plynty.com/uploads/plynty_logo_green.png"
   uploads:
     title: Uploads
     output: true
@@ -30,6 +33,9 @@ collections:
     title: support articles
     output: true
 defaults:
+-
+  values:
+    image: "https://plynty.com/uploads/plynty_logo_green.png" #default image for sharing
 - scope:
     path: ''
     type: sections
@@ -75,3 +81,4 @@ assets:
 excerpt_separator: "<!--more-->"
 gems:
 - jekyll-textile-converter
+- jekyll-seo-tag

@@ -5,8 +5,8 @@ date: 2017-09-13 12:00:00 Z
 published: false
 tags:
 - retirement profile
-asset: "/uploads/10-MJ.jpg"
-image: "/uploads/10-MJ-article.jpg.png"
+image: "/uploads/10-MJ.jpg"
+asset: "/uploads/10-MJ-article.jpg.png"
 author: plynty
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 'demystifying cashflow: you’re savvier than you know'
 date: 2016-11-08 18:08:00 Z
-asset: "/uploads/my-stash-optimized.jpg"
-image: "/uploads/my-stash-banner.jpg"
+image: "/uploads/my-stash-optimized.jpg"
+asset: "/uploads/my-stash-banner.jpg"
 author: plynty
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: the plynty recipe for retirement planning
 date: 2017-08-29 12:00:00 Z
-asset: "/uploads/7-theplyntyrecipeforretirementplanning-preview.png"
-image: "/uploads/lifelong%20cashflow%20wide.jpg"
+image: "/uploads/7-theplyntyrecipeforretirementplanning-preview.png"
+asset: "/uploads/lifelong%20cashflow%20wide.jpg"
 author: plynty
 ---
 
