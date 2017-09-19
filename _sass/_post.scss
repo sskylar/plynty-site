@@ -32,6 +32,19 @@ article.post {
     margin-bottom: 2rem;
   }
 
+  li {
+    font-size: 1.4rem;
+    color: $plynty-gray;
+  }
+
+  p img{
+    max-width: 95%;
+  }
+
+  p a{
+    font-size: 1.4rem;
+  }
+
   a {
     text-decoration: none;
     color: $plynty-green;

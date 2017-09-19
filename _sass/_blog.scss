@@ -54,12 +54,12 @@ main.blog {
   }
 
   section.index li a {
-    text-decoration: none;
-    color: $plynty-green;
+      text-decoration: none;
+      color: $plynty-green;
   }
 
   section.index .author {
-    color: gray;
+    color: $plynty-gray;
     font-style: italic;
   }
 
