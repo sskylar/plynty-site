@@ -6,7 +6,7 @@ layout: plain
 
 # Privacy Policy
 
-Last updated: September 14, 2017
+Last updated: September 25, 2017
 
 Welcome and thank you for your interest in plynty, LLC (“plynty”).  This Privacy Policy expresses our commitment to the protection of your privacy. We share this document to help you understand what personal information we collect, how that information is used to serve you, and how your privacy is safeguarded. You are consenting to the privacy practices explained within this Policy by using the services we offer.
 
