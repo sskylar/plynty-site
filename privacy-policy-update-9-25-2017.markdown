@@ -5,7 +5,7 @@ date: 2017-09-19 15:55:00 Z
 
 # Update to our Privacy Policy 9-25-2017
 
-At *plynty*, we are committed to protecting the privacy of our users and maintaining full transparency with regards to the sharing of our users' personal and anonymized information.
+At *plynty*, we are committed to protecting the privacy of our users and maintaining full transparency in regard to the protection of our users' Personal Information, and the sharing of anonymized information.
 
 
 ## Why we are updating our Privacy Policy
