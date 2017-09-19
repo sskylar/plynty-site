@@ -15,7 +15,7 @@ The update to our [Privacy Policy](https://plynty.com/privacy.html) clarifies ho
 
 ## What it means to your privacy and identity protection
 
-This update does not change our policy toward your Personal Information. We have not, do not, and will not share your Personal Information with Facebook®.
+This update does not change our policy toward protecting your Personal Information. We have not, do not, and will not share your Personal Information with Facebook®.
 
 The information we exchange with Facebook® is analytical in nature and completely anonymized. We do not associate it with your account or Personal Information.
 
