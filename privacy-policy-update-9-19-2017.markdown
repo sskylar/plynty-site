@@ -4,7 +4,7 @@ date: 2017-09-19 15:55:00 Z
 layout: page
 ---
 
-# Update to our Privacy Policy
+## Update to our Privacy Policy
 
 At plynty, we are committed to protecting the privacy of our users and maintaining full transparency with regards to the sharing of our users' personal and anonymized information.
 
