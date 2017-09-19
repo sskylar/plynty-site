@@ -1,13 +1,12 @@
 ---
 title: plynty
-description: "simple, convenient, personalized"
 timezone: UTC
 collections:
   posts:
     title: Posts
     output: true
-    description: "Post descriptions"
-    image: "https://plynty.com/uploads/plynty_logo_green.png"
+    description: Post descriptions
+    image: https://plynty.com/uploads/plynty_logo_green.png
   uploads:
     title: Uploads
     output: true
@@ -66,7 +65,8 @@ defaults:
     type: pages
   values:
     layout: page
-    image: "https://plynty.com/uploads/plynty_logo_green.png" #default image for sharing
+    image: https://plynty.com/uploads/plynty_logo_green.png
+description: simple, convenient, personalized
 email: support@plynty.com
 markdown: kramdown
 sass:
