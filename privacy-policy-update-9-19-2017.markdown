@@ -20,6 +20,6 @@ This update does not change our policy toward your Personal Information. We have
 The information we exchange with Facebook® is analytical in nature and completely anonymized. We do not associate it with your account or Personal Information.
 
 
-## If you're not uncomfortable with the revised Privacy Policy
+## If you're not comfortable with the revised Privacy Policy
 
 If you no longer wish to use **plynty** as a result of the changes to our Privacy Policy, you may delete your account and all associated account data by selecting "Delete Account" from the **plynty** app on your phone, or by contacting customer support at support@plynty.com.
