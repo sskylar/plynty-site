@@ -6,7 +6,7 @@ layout: plain
 
 # Privacy Policy
 
-Last updated: February 22, 2017
+Last updated: September 14, 2017
 
 Welcome and thank you for your interest in plynty, LLC (“plynty”).  This Privacy Policy expresses our commitment to the protection of your privacy. We share this document to help you understand what personal information we collect, how that information is used to serve you, and how your privacy is safeguarded. You are consenting to the privacy practices explained within this Policy by using the services we offer.
 
@@ -47,7 +47,19 @@ Cookies and Pixels: We use cookies in several ways, but primarily for authentica
 
 Mobile Analytic Information: We use analytics software from Ionic® to help us better understand the performance of our mobile app on your device. This software may record information such as how frequently you use the plynty mobile app, what events occurred within the app, and app performance data. This information is anonymized. We do not associate information collected by the analytics software to any of your Personal Information.
 
-Website Analytic Information:  We use analytics software from Google® to help us to better understand how visitors use our web site. This software may record information such as how frequent users visit our site, what pages they visit when they do, and what other site was visited immediately prior to our site. We only use the information collected by this analytics software to improve the site and to understand the effectiveness of our marketing campaigns. Only the Internet Protocol (ISP) address is collected, which was assigned to you on the date you visited this site, not your name or other identifying information. This information is anonymized. We do not associate information collected by the analytics software to any of your Personal Information.
+We also integrate analytic software from Facebook® and other third parties to help us better understand how our new users
+engage with and find value with our app. This software may record information such as how frequently people use the app,
+what pages they visit on the app, and what actions they take on the app. We use the information collected by this integration
+to improve the app and understand the effectiveness of our marketing campaigns. The information we receive is anonymized
+and we do not associate it with your Personal Information.
+
+Website Analytic Information: We use analytics software from Google®, Facebook®, and other third parties to help us to
+better understand how visitors use our web site. This software may record information such as how frequent users visit
+our site, what pages they visit when they do, and what other site was visited immediately prior to our site. We only
+use the information collected by this analytics software to improve the site and to understand the effectiveness of our
+marketing campaigns. Only the Internet Protocol (ISP) address is collected, which was assigned to you on the date you
+visited this site, not your name or other identifying information. This information is anonymized. We do not associate
+information collected by the analytics software to any of your Personal Information.
 
 ## 4. USE OF COLLECTED INFORMATION
 
