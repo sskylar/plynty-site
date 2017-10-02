@@ -1,11 +1,10 @@
 ---
 title: retirement tips from a professional in HR
 date: 2017-09-22 14:00:00 Z
-published: false
 tags:
 - retirement profile
-image: "/uploads/tim-arterbury-126157.jpg"
 asset: "/uploads/tim-arterbury-126157%20wide.jpg"
+image: "/uploads/tim-arterbury-126157.jpg"
 author: plynty
 ---
 
