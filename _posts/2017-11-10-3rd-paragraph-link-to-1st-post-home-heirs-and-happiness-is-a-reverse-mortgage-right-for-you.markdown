@@ -1,6 +1,6 @@
 ---
-title: "(3rd paragraph link to 1st post) Home, Heirs, and Happiness — Is A Reverse
-  Mortgage Right for You?"
+title: "#3(check links 1st) Home, Heirs, and Happiness — Is A Reverse Mortgage Right
+  for You?"
 date: 2017-11-10 22:30:00 Z
 published: false
 ---
