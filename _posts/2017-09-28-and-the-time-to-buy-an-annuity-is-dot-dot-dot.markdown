@@ -1,9 +1,8 @@
 ---
 title: and the time to buy an annuity is…
 date: 2017-09-28 12:00:00 Z
-published: false
-image: "/uploads/13-andthetimetobuyanannuityis-preview.jpg"
 asset: "/uploads/13-andthetimetobuyanannuityis-article.png"
+image: "/uploads/13-andthetimetobuyanannuityis-preview.jpg"
 author: plynty
 ---
 
