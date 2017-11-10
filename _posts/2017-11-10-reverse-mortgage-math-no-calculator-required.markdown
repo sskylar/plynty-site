@@ -2,6 +2,8 @@
 title: "#2(Check links 1st) Reverse Mortgage “Math” No Calculator Required"
 date: 2017-11-10 22:35:00 Z
 published: false
+asset: "/uploads/15-reversemortgagemathnocalculatorrequired-article.jpg.png"
+image: "/uploads/15-reversemortgagemathnocalculatorrequired-preview.jpg.png"
 ---
 
 So you read the words “mortgage” and “math” and think… ugh, this is going to be complicated. But remember that this is plynty, and your financial plan is easier to understand by using [lifelong cashflow](https://plynty.com/post/finding-balance-lifelong-cashflow.html). A Home Equity Conversion Mortgage (HECM) is really just another tool to increase retirement income, decrease retirement expenses, or even both.
