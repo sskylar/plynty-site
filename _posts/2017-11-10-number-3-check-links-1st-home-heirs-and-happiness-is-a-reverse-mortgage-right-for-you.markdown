@@ -3,6 +3,8 @@ title: "#3(check links 1st) Home, Heirs, and Happiness — Is A Reverse Mortgage
   for You?"
 date: 2017-11-10 22:39:00 Z
 published: false
+asset: "/uploads/16-homesheirsandhappinessisareversemortgagerightforyou-article.jpg.png"
+image: "/uploads/16-homesheirsandhappinessisareversemortgagerightforyou-preview.jpg.png"
 ---
 
 Obtaining an HECM allows you to convert the equity in your home to cash that you can spend, improving the quality of your retirement. So, what is the main stumbling block that might hold you back from applying? Well, at the same time the HECM also reduces the equity in your home. You won’t own your home free-and-clear and, perhaps most importantly, your heirs will be left with reduced (or even nothing) in equity to inherit.
