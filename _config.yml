@@ -78,6 +78,6 @@ assets:
     css: true
     js: true
 excerpt_separator: "<!--more-->"
-plugins_dir:
+gems:
 - jekyll-textile-converter
 - jekyll-seo-tag
