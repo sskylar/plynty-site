@@ -6,7 +6,7 @@ asset: "/uploads/15-reversemortgagemathnocalculatorrequired-article.jpg.png"
 image: "/uploads/15-reversemortgagemathnocalculatorrequired-preview.jpg.png"
 ---
 
-So you read the words “mortgage” and “math” and think… ugh, this is going to be complicated. But remember that this is plynty, and your financial plan is easier to understand by using [lifelong cashflow](https://plynty.com/post/finding-balance-lifelong-cashflow.html). A Home Equity Conversion Mortgage (HECM) is really just another tool to increase retirement income, decrease retirement expenses, or even both.
+So you read the words “mortgage” and “math” and think… ugh, this is going to be complicated. But remember that this is plynty, and your financial plan is easier to understand by using [lifelong cashflow](https://plynty.com/post/finding-balance-lifelong-cashflow.html). A Home Equity Conversion Mortgage (HECM) is really just another tool to increase retirement income, decrease retirement expenses, or even both. <!--more-->
 
 Yes, you will need to look at a number of factors to see if it is the right tool for you. However, this is your life and your plan — it is worth taking the time to work through this. To get started, as we mentioned in the first post [link] in this series, we assume you are at least age 62 and have at least 50% equity in your home. 
 
