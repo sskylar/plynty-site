@@ -6,7 +6,7 @@ asset: "/uploads/14-puttingyourhometoworkforyou-reversemortgages-article.jpg.png
 image: "/uploads/14-puttingyourhometoworkforyou-reversemortgages-preview.jpg.png"
 ---
 
-If you own your home, whether in part or outright, then a reverse mortgage is potentially a valuable tool that can help both decrease your expenses and increase your income during your retirement. Now, you might say “Forget it! That’s the major part of my nest egg and I’m not fooling around with that stuff.” Or you might say “Well, I already have a mortgage so I clearly don’t qualify.” But not so fast — a reverse mortgage can be a viable option for a variety of financial plans. Let’s take a closer look at the details.
+If you own your home, whether in part or outright, then a reverse mortgage is potentially a valuable tool that can help both decrease your expenses and increase your income during your retirement.<!--more--> Now, you might say “Forget it! That’s the major part of my nest egg and I’m not fooling around with that stuff.” Or you might say “Well, I already have a mortgage so I clearly don’t qualify.” But not so fast — a reverse mortgage can be a viable option for a variety of financial plans. Let’s take a closer look at the details.
 
 plynty recommends the Home Equity Conversion Mortgage (HECM), which allows borrowers to convert the equity in their homes into a monthly stream of income or a line of credit. The basic requirements to qualify for an HECM include:
 * Borrower must be at least 62 years old;
