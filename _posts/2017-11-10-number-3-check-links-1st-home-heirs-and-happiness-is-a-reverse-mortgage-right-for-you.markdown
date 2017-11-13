@@ -7,7 +7,7 @@ asset: "/uploads/16-homesheirsandhappinessisareversemortgagerightforyou-article.
 image: "/uploads/16-homesheirsandhappinessisareversemortgagerightforyou-preview.jpg.png"
 ---
 
-Obtaining an HECM allows you to convert the equity in your home to cash that you can spend, improving the quality of your retirement. So, what is the main stumbling block that might hold you back from applying? Well, at the same time the HECM also reduces the equity in your home. You won’t own your home free-and-clear and, perhaps most importantly, your heirs will be left with reduced (or even nothing) in equity to inherit.
+Obtaining an HECM allows you to convert the equity in your home to cash that you can spend, improving the quality of your retirement. So, what is the main stumbling block that might hold you back from applying?<!--more--> Well, at the same time the HECM also reduces the equity in your home. You won’t own your home free-and-clear and, perhaps most importantly, your heirs will be left with reduced (or even nothing) in equity to inherit.
 
 We get it — you’ve worked a long time to own your home, and leaving the maximum possible for your family is important to many people. But let’s stop for a second and talk about two key items: determining the best way for your home to be a part of your retirement plan, and redefining “inheritance.”
 
