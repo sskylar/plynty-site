@@ -66,10 +66,6 @@ defaults:
   values:
     layout: page
     image: https://plynty.com/uploads/plynty_logo_green.png
-repository: plynty/plynty-site
-url: https://plynty.com
-baseurl: "/"
-description: simple, convenient, personalized
 email: support@plynty.com
 markdown: kramdown
 sass:
@@ -83,4 +79,3 @@ excerpt_separator: "<!--more-->"
 gems:
 - jekyll-textile-converter
 - jekyll-seo-tag
-exclude: []
