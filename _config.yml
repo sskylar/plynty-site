@@ -66,7 +66,7 @@ defaults:
   values:
     layout: page
     image: https://plynty.com/uploads/plynty_logo_green.png
-repository: "plynty/plynty-site"
+repository: plynty/plynty-site
 url: https://plynty.com
 description: simple, convenient, personalized
 email: support@plynty.com
