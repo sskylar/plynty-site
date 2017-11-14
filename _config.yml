@@ -1,7 +1,7 @@
 ---
 title: plynty
 timezone: UTC
-repository: plynty.github.io/plynty-site
+repo: https://github.com/plynty/plynty-site
 collections:
   posts:
     title: Posts
