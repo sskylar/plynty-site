@@ -1,7 +1,6 @@
 ---
 title: plynty
 timezone: UTC
-repo: https://github.com/plynty/plynty-site
 collections:
   posts:
     title: Posts
@@ -67,6 +66,7 @@ defaults:
   values:
     layout: page
     image: https://plynty.com/uploads/plynty_logo_green.png
+repo: https://github.com/plynty/plynty-site
 description: simple, convenient, personalized
 email: support@plynty.com
 markdown: kramdown
